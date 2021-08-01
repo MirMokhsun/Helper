@@ -12,7 +12,6 @@ import { countriesru } from '../../common/countries/countries_ru';
 import { getPlatform } from '../../api/setLanguageInStartApp/setLanguageInStartApp';
 import { returnCountriesLocalization } from '../../api/setCountryName/setCountryName';
 import { setRegistrationPhoneCode, setRegistrationCountry } from '../screens/registrationScreen/redux/registrationDataAction';
-import DeviceInfo from 'react-native-device-info';
 import { config } from '../../api/config';
 import FreeServer from '../../api/processingWithServer/getfreesrver';
 import * as RNLocalize from "react-native-localize";
@@ -23,15 +22,15 @@ const StatusConnection=(props)=> {
 
     const [isFirstConnection, setIsFirstConnection] = useState(true)
     const [isStart, setIsStart] = useState(true)
-    const [connectionType, setConnectionType] = useState();
-    const [connectioneffectiveType, setConnectioneffectiveType] = useState()
     const [isConnected, setIsConnected] = useState(true)
     let appState = AppState.currentState
     const freeServer = new FreeServer();
 
     useEffect(() => {
         const unsubscribe = NetInfo.addEventListener(state => {
-            handleConnectivityChange(state.isConnected)});
+            handleConnectivityChange(state.isConnected)
+        });
+            setIsConnected(state.isConnected);
           AppState.addEventListener('change', _handleAppStateChange);
         return () => {
             unsubscribe();
@@ -133,13 +132,6 @@ const StatusConnection=(props)=> {
             }
         }
         if (isFirstConnection && isConnected) {
-            // NetInfo.getConnectionInfo().then((connectionInfo) => {
-            //     setState({
-            //         connectionType: connectionInfo.type,
-            //         connectioneffectiveType: connectionInfo.effectiveType,
-            //     })
-            // });
-
             freeServer.getFreeServer();
             setIsFirstConnection(false);
             setDefaultCountry(isConnected);
@@ -149,21 +141,12 @@ const StatusConnection=(props)=> {
     };
 
     const chackChangingNetSourse = () => {
-        // NetInfo.getConnectionInfo().then((connectionInfo) => {
-
-            // if (connectionType !== connectionInfo.type || connectionInfo.effectiveType !== connectioneffectiveType) {
-            //     const { webSocketClient: ws } = props;
-            //     store.dispatch({ type: 'SET_CONNECTION_STATUS', data: "Lost Connection" })
-            //     if (ws) {
-            //         ws.webSocketClient.closeWebSocketConnection();
-            //         ws.webSocketClient.websocket.reconect();
-            //     }
-            // }
-            // setState({
-            //     connectionType: connectionInfo.type,
-            //     connectioneffectiveType: connectionInfo.effectiveType,
-            // })
-        // });
+        const { webSocketClient: ws } = props;
+            store.dispatch({ type: 'SET_CONNECTION_STATUS', data: "Lost Connection" })
+                if (ws) {
+                    ws.webSocketClient.closeWebSocketConnection();
+                    ws.webSocketClient.websocket.reconect();
+                }
     }
     
     if (!isConnected && !isStart) {
