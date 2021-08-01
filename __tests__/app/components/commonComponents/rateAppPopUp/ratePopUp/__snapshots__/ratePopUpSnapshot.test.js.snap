@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot RatePopup 1`] = `
+<TouchableWithoutFeedback
+  accessibilityLabel="closePopupID"
+  testID="closePopupID"
+>
+  <View
+    onLayout={[Function]}
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "rgba(23, 37, 51, 0.9)",
+          "flex": 1,
+          "height": "100%",
+          "justifyContent": "center",
+        },
+        Object {
+          "maxHeight": undefined,
+        },
+      ]
+    }
+  >
+    <TouchableWithoutFeedback
+      onPress={[Function]}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 15,
+              "elevation": 4,
+              "padding": 15,
+              "paddingBottom": 25,
+              "shadowColor": "rgba(0, 0, 0, 0.15)",
+              "shadowOffset": Object {
+                "height": 4,
+                "width": 0,
+              },
+              "shadowOpacity": 1,
+              "shadowRadius": 4,
+            },
+            Object {
+              "width": undefined,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "space-evenly",
+            }
+          }
+        />
+      </View>
+    </TouchableWithoutFeedback>
+  </View>
+</TouchableWithoutFeedback>
+`;

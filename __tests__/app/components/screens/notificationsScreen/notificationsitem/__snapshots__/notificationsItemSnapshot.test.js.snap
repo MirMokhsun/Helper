@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot NotificationsItem 1`] = `
+<TouchableWithoutFeedback
+  accessibilityLabel="NotificationsItemDetailsScreenID"
+  onPress={[Function]}
+  testID="NotificationsItemDetailsScreenID"
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "column",
+          "height": 100,
+          "marginTop": 5,
+          "paddingLeft": 10,
+          "paddingRight": 10,
+          "width": "100%",
+        },
+        Object {
+          "backgroundColor": "#ffffff",
+          "borderBottomColor": "#D3D9E7",
+          "borderBottomWidth": 1,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <View>
+        <Text
+          style={
+            Object {
+              "color": "#1459D2",
+              "fontFamily": "Roboto",
+              "fontSize": 11,
+              "lineHeight": 13,
+              "marginTop": 10,
+            }
+          }
+        >
+          Feb 25, 2018
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "flex-end",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#F86F6F",
+              "borderRadius": 50,
+              "height": 8,
+              "width": 8,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View>
+      <Text
+        numberOfLines={3}
+        style={
+          Object {
+            "color": "#000756",
+            "fontFamily": "Roboto",
+            "fontSize": 16,
+            "lineHeight": 19,
+            "marginTop": 5,
+          }
+        }
+      />
+    </View>
+  </View>
+</TouchableWithoutFeedback>
+`;

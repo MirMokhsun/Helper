@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot SelectLanguageScreen 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#F5F5F7",
+      "flex": 1,
+    }
+  }
+  testID="welcome"
+>
+  <ListPicker
+    checked={true}
+    id="SelectLanguageRU"
+    onPress={[Function]}
+    showCirle={true}
+    text="Русский"
+  />
+  <ListPicker
+    checked={false}
+    id="SelectLanguageEN"
+    onPress={[Function]}
+    showCirle={true}
+    text="Английский"
+  />
+  <ListPicker
+    checked={false}
+    id="SelectLanguageES"
+    onPress={[Function]}
+    showCirle={true}
+    text="Испанский"
+  />
+</View>
+`;

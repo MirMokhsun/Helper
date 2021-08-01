@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot ToolbarInTabbar 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#F5F5F7",
+        "flex": 1,
+        "flexDirection": "row",
+        "justifyContent": "center",
+      },
+      Object {
+        "maxHeight": 96,
+        "minHeight": 96,
+        "paddingTop": 40,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "height": 56,
+        "justifyContent": "center",
+        "width": 56,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "flexDirection": "row",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Title
+      pageName=""
+    />
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "height": 56,
+          "justifyContent": "center",
+          "width": 56,
+        }
+      }
+    />
+  </View>
+</View>
+`;

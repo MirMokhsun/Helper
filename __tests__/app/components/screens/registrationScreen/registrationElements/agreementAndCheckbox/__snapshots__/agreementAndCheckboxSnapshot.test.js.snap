@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot AgreementAndCheckbox 1`] = `
+<View
+  style={
+    Object {
+      "flexDirection": "row",
+      "marginBottom": 25,
+      "width": 290,
+    }
+  }
+>
+  <TouchableOpacity
+    accessibilityLabel="BtnCheckBoxRegistrationID"
+    activeOpacity={0.2}
+    onPress={[Function]}
+    testID="BtnCheckBoxRegistrationID"
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#fff",
+          "borderColor": "#9FA0B2",
+          "borderWidth": 0.5,
+          "height": 20,
+          "justifyContent": "center",
+          "marginHorizontal": 5,
+          "width": 20,
+        }
+      }
+    />
+  </TouchableOpacity>
+  <View
+    style={
+      Object {
+        "flexDirection": "column",
+        "width": 260,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#9FA0B2",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 12,
+          "lineHeight": 14,
+          "marginLeft": 10,
+          "textAlign": "left",
+          "textAlignVertical": "bottom",
+        }
+      }
+    >
+      I have read and agree with
+       
+    </Text>
+    <TouchableOpacity
+      accessibilityLabel="BtnAgreementRegistrationID"
+      activeOpacity={0.2}
+      onPress={[Function]}
+      testID="BtnAgreementRegistrationID"
+    >
+      <View
+        style={
+          Object {
+            "width": 260,
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "textAlign": "left",
+                "textDecorationLine": "underline",
+              },
+              Object {
+                "color": "#9FA0B2",
+                "fontFamily": "Roboto-Light",
+                "fontSize": 12,
+                "lineHeight": 14,
+                "marginLeft": 10,
+                "textAlign": "left",
+                "textAlignVertical": "bottom",
+              },
+            ]
+          }
+        >
+          user agreement
+           
+        </Text>
+      </View>
+    </TouchableOpacity>
+  </View>
+</View>
+`;

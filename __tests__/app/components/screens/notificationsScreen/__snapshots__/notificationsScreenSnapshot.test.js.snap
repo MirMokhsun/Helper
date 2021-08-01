@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotificationsScreen create snapshot NotificationsScreen with empty historyNotification 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#ffffff",
+      "height": "100%",
+      "width": "100%",
+    }
+  }
+>
+  <EmptyNotification
+    text="Уведомлений нет"
+  />
+</View>
+`;
+
+exports[`NotificationsScreen create snapshot NotificationsScreen with historyNotification 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#ffffff",
+      "height": "100%",
+      "width": "100%",
+    }
+  }
+>
+  <EmptyNotification
+    text="Уведомлений нет"
+  />
+</View>
+`;

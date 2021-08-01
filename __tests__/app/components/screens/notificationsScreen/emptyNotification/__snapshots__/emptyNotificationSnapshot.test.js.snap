@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EmptyNotification Create snapshot EmptyNotification 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <EmptyNotificationSVG />
+  <Text
+    style={
+      Object {
+        "color": "#9FA0B2",
+        "fontFamily": "Roboto-Regular",
+        "fontSize": 20,
+        "lineHeight": 24,
+        "marginTop": 15,
+      }
+    }
+  >
+    test
+  </Text>
+</View>
+`;

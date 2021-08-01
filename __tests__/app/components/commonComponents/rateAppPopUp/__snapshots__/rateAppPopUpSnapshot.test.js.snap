@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RateAppPopUp create snapshot rateAppPopUp 1`] = `
+<Component
+  animationType="fade"
+  hardwareAccelerated={false}
+  onRequestClose={[Function]}
+  transparent={true}
+  visible={false}
+>
+  <RatePopup
+    backgroundFunction={[Function]}
+    functionBtn={[Function]}
+    textBtn="Напомнить позже"
+    topComponent={
+      <TopComponent
+        closeFunc={[Function]}
+        errorText="Минимальное количество 10 символов"
+        placeholderText="Оставить комментарий"
+        sendText="Отправить"
+        title="Понравилось приложение?
+Оцените его!"
+      />
+    }
+    width="90%"
+  />
+</Component>
+`;

@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot CountryScreen 1`] = `
+<KeyboardAvoidingView
+  behavior="padding"
+  enabled={true}
+  keyboardVerticalOffset={0}
+  style={
+    Object {
+      "backgroundColor": "#E5E5E5",
+      "height": "100%",
+      "width": "100%",
+    }
+  }
+>
+  <StatusBar
+    animated={false}
+    backgroundColor="#E5E5E5"
+    barStyle="dark-content"
+    showHideTransition="fade"
+  />
+  <FlatList
+    data={null}
+    disableVirtualization={false}
+    horizontal={false}
+    initialNumToRender={10}
+    keyExtractor={[Function]}
+    keyboardShouldPersistTaps="handled"
+    maxToRenderPerBatch={10}
+    numColumns={1}
+    onEndReachedThreshold={2}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    updateCellsBatchingPeriod={50}
+    windowSize={21}
+  />
+</KeyboardAvoidingView>
+`;

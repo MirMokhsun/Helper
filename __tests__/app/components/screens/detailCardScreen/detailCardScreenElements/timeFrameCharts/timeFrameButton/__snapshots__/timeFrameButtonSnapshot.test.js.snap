@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TimeFrameButton Create snapshot TimeFrameButton with props isActive={false} 1`] = `
+<TouchableWithoutFeedback
+  accessibilityLabel="TimeFrameButtonundefinedID"
+  onPress={[Function]}
+  testID="TimeFrameButtonundefinedID"
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "zIndex": 2,
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#9FA0B2",
+            "fontFamily": "Roboto-Regular",
+            "fontSize": 12,
+            "fontWeight": "normal",
+            "lineHeight": 24,
+          },
+          null,
+        ]
+      }
+    >
+      1min
+    </Text>
+  </View>
+</TouchableWithoutFeedback>
+`;
+
+exports[`TimeFrameButton Create snapshot TimeFrameButton with props isActive={true} 1`] = `
+<TouchableWithoutFeedback
+  accessibilityLabel="TimeFrameButtonundefinedID"
+  onPress={[Function]}
+  testID="TimeFrameButtonundefinedID"
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "zIndex": 2,
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#9FA0B2",
+            "fontFamily": "Roboto-Regular",
+            "fontSize": 12,
+            "fontWeight": "normal",
+            "lineHeight": 24,
+          },
+          Object {
+            "color": "#000756",
+            "fontFamily": "Roboto-Regular",
+            "fontSize": 12,
+            "fontWeight": "bold",
+            "lineHeight": 24,
+          },
+        ]
+      }
+    >
+      1min
+    </Text>
+  </View>
+</TouchableWithoutFeedback>
+`;

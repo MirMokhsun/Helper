@@ -1,0 +1,570 @@
+[
+    {
+        "title": "Altcóin",
+        "text": "El término \"altcóin\" se originó cuando se produjo una brecha mucho mayor entre el bitcóin y las demás criptomonedas en lo relacionado con adopción, límite de mercado y confianza. En ese momento, las criptomonedas que no eran bitcóin se denominaron altcoines (o monedas alternativas). El término ha calado entre los operadores y todavía se utiliza para denominar al nivel inferior de criptomonedas."
+    },
+    {
+        "title": "Anonymous Trading",
+        "text": "ofertas que están presentes en los mercados financieros sin revelar la identidad de los participantes en el mercado."
+    },
+    {
+        "title": "Appreciation",
+        "text": "Una condición por la cual el valor de un instrumento financiero aumenta en respuesta a la demanda en el mercado."
+    },
+    {
+        "title": "Arbitrage",
+        "text": "La compra y venta simultánea de un activo financiero a dos precios distintos en dos mercados separados, lo que genera beneficios con mínimos riesgos."
+    },
+    {
+        "title": "Ask Rate",
+        "text": "También se conoce como oferta. Es el precio más bajo al que un vendedor acepta vender un activo financiero."
+    },
+    {
+        "title": "Asset",
+        "text": "El instrumento subyacente es esencial para la determinación de un contrato. Puede ser un metal precioso, acciones, par de divisas o bonos."
+    },
+    {
+        "title": "Asset Allocation",
+        "text": "Una estrategia que segrega la cartera de inversiones en varias clases de activos con la intención de maximizar los rendimientos y también minimizar los riesgos"
+    },
+    {
+        "title": "At the Money",
+        "text": "Una frase usada para ilustrar una ganancia neutral en un comercio."
+    },
+    {
+        "title": "Attorney in charge",
+        "text": "Una persona concedió el mandato de comerciar en los mercados financieros en nombre de otro comerciante."
+    },
+    {
+        "title": "Authorized Dealer",
+        "text": "Una entidad financiera que ha recibido la certificación para participar en transacciones en moneda extranjera."
+    },
+    {
+        "title": "Away from the market",
+        "text": "Una situación en la que la oferta de una orden limitada es inferior al precio de mercado actual o al precio de oferta es superior al precio de mercado actual de un instrumento financiero."
+    },
+    {
+        "title": "Balance of Payments (BOP)",
+        "text": "Un registro sistemático que describe las transacciones de un país con otros países dentro de un período de tiempo determinado."
+    },
+    {
+        "title": "Balance of Trade",
+        "text": "La diferencia de valor entre las exportaciones e importaciones de un país calculado dentro de un cierto período de tiempo."
+    },
+    {
+        "title": "Bank Rate",
+        "text": "El tipo de interés al que el banco central de un país otorga préstamos a bancos comerciales nacionales."
+    },
+    {
+        "title": "Base Currency",
+        "text": "La primera moneda en una cotización de par de divisas."
+    },
+    {
+        "title": "Bear",
+        "text": "Un participante en el mercado que cree que el precio de un instrumento financiero se desplomará."
+    },
+    {
+        "title": "Bear Market",
+        "text": "Un tipo de mercado por el cual los precios de los instrumentos financieros están cayendo."
+    },
+    {
+        "title": "Bid",
+        "text": "El precio de venta de un activo financiero determinado."
+    },
+    {
+        "title": "Bloques",
+        "text": "Los bloques son fundamentales para entender el funcionamiento de las cadenas de bloques y criptomonedas. En esencia, un bloque es una serie de datos que representan transacciones ocurridas en un período de tiempo dado. Tras su publicación, los bloques son inmutables y se enlazan entre ellos para formar una cadena de entradas de datos con fecha y hora."
+    },
+    {
+        "title": "Blue Chip",
+        "text": "Acciones de organizaciones grandes y bien establecidas."
+    },
+    {
+        "title": "Break Even",
+        "text": "Término utilizado para describir cuándo no hay ganancia o pérdida global experimentada en una transacción."
+    },
+    {
+        "title": "Breton Woods Agreement",
+        "text": "Un acuerdo histórico firmado en 1944 en los Estados Unidos que estipula las directrices para un sistema monetario internacional."
+    },
+    {
+        "title": "Broker",
+        "text": "Un individuo o una organización que trabaja como intermediario entre los comerciantes minoristas y las grandes corporaciones financieras establecidas."
+    },
+    {
+        "title": "Bull",
+        "text": "Mercado que cree que el precio de un instrumento financiero aumentará."
+    },
+    {
+        "title": "Bull Market",
+        "text": "Un tipo de mercado por el cual los precios de los instrumentos financieros están subiendo."
+    },
+    {
+        "title": "Cadenas de bloques",
+        "text": "Una cadena de bloques es, en esencia, un libro de contabilidad de transacciones. A diferencia de los libros de contabilidad que llevan los bancos, estos son públicos y se distribuyen. Son la tecnología subyacente de todas las criptomonedas y permiten a los usuarios realizar transacciones sin necesidad de recurrir a terceros de confianza, como bancos, PayPal, Western Union u otros."
+    },
+    {
+        "title": "Call Option",
+        "text": "Un tipo de opción binaria que genera ganancias cuando el precio unitario del activo subyacente es mayor al vencimiento que al comprarlo."
+    },
+    {
+        "title": "Cartera",
+        "text": "Una cartera es simplemente el lugar en que mantiene los beneficios de las criptomonedas. Las criptocarteras se dividen en los siguientes grupos:\n\nCarteras software, que se pueden instalar en su equipo.\n\nCarteras móviles, disponibles para dispositivos móviles.\n\nCarteras web, que están alojadas en línea y se encuentran disponibles a través de los navegadores web.\n\nCarteras de papel, que se crean tras la impresión de las claves públicas y privadas (o códigos QR) en un trozo de papel y guardándolas en lugar seguro (a la antigua).\n\nCarteras hardware, que son pequeños dispositivos USB donde se guardan claves privadas. Por ello, se deben conectar a un ordenador para poder firmar una transacción."
+    },
+    {
+        "title": "CBOE (Chicago Board Options Exchange)",
+        "text": "El mayor intercambio de opciones en el mundo."
+    },
+    {
+        "title": "CCI",
+        "text": "Abreviatura de Commodity Channel Index. Es un indicador técnico oscilante utilizado para medir cuándo un instrumento financiero ha sido sobrecompuesto o sobrevendido."
+    },
+    {
+        "title": "Centralización/descentralización",
+        "text": "La centralización se refiere a cualquier sistema en el que se requieren partes de confianza. Antes de las criptomonedas, era imposible realizar negocios sin involucrar a partes de confianza, como bancos o agentes de transferencia de dinero. Internet es la primera tecnología verdaderamente descentralizada, ya que su propia estructura permite a todos los participantes actuar en igualdad de condiciones. La tecnología de cadenas de bloques encarna la evolución de esa ética original de Internet y promete descentralizar muchas áreas de la vida humana que abarcan más allá de las monedas."
+    },
+    {
+        "title": "CFD",
+        "text": "Iniciales para Contrato por Diferencia. Se trata básicamente de un acuerdo entre un inversor y una institución de inversión. Cuando el acuerdo expira, las partes intercambian la diferencia entre los precios de apertura y de cierre de un activo financiero determinado mediante pagos en efectivo."
+    },
+    {
+        "title": "Clave privada",
+        "text": "Su clave privada es la firma digital que se emplea para desbloquear la cartera de criptomonedas y firmar transacciones. Esencialmente, es la contraseña para comerciar con criptomonedas y, como tal, debe mantenerse segura y sin compartir."
+    },
+    {
+        "title": "Clave pública",
+        "text": "Su clave pública es la dirección de su criptomoneda. Es el código que proporciona al solicitar un pago."
+    },
+    {
+        "title": "Commission",
+        "text": "El honorario pagado a una firma de corretaje por el servicio prestado en facilitar transacciones."
+    },
+    {
+        "title": "Commodities",
+        "text": "Un nombre general que se refiere a los elementos físicos básicos que se cultivan o extraen.Los ejemplos incluyen café, metales preciosos y aceite."
+    },
+    {
+        "title": "Commodity Pairs",
+        "text": "Los tres pares de monedas en el mercado de divisas que son de países con las cantidades más extensas de productos básicos. Estas parejas son USD / CAD, AUD / USD y NZD / USD."
+    },
+    {
+        "title": "Counter Currency",
+        "text": "La segunda moneda en una cotización de par de divisas. También se llama moneda de cotización."
+    },
+    {
+        "title": "CPI",
+        "text": "Iniciales para el Índice de Precios al Consumidor. Es una medida estadística que registra los cambios en el poder adquisitivo de una moneda, así como la tasa de inflación."
+    },
+    {
+        "title": "Cross Currency Transaction",
+        "text": "Tipo de transacción en la que se negocian al mismo tiempo dos o más divisas."
+    },
+    {
+        "title": "Currency",
+        "text": "Tipo de activo financiero que se puede negociar. Las monedas se negocian generalmente en pares."
+    },
+    {
+        "title": "Currency Trading",
+        "text": "El acto de participar en el intercambio de una moneda por otra moneda."
+    },
+    {
+        "title": "Day Trading",
+        "text": "La apertura y el cierre de posiciones en el mercado en el mismo día sin tenerlos durante la noche."
+    },
+    {
+        "title": "Deficit",
+        "text": "Un estado en el cual los pasivos exceden el valor de los activos o pérdidas excede los beneficios."
+    },
+    {
+        "title": "Demo Trader",
+        "text": "Una cuenta de negociación que permite a un inversor potencial revisar y acostumbrarse a las características de una plataforma de negociación usando dinero virtual antes de participar en el comercio real."
+    },
+    {
+        "title": "Depreciation",
+        "text": "Una condición en la cual el valor de un instrumento financiero disminuye según la demanda en el mercado."
+    },
+    {
+        "title": "Derivative",
+        "text": "Un contrato financiero cuyo valor se basa o se deriva del desempeño de uno o más activos subyacentes. Ejemplos de activos subyacentes son acciones, bonos o índices."
+    },
+    {
+        "title": "Dividend",
+        "text": "Una parte de los beneficios de una empresa pagados a cada accionista."
+    },
+    {
+        "title": "Earnings per Share (EPS)",
+        "text": "La fracción de las ganancias de una organización se distribuye a cada acción en circulación de acciones ordinarias."
+    },
+    {
+        "title": "ECN Broker",
+        "text": "Una empresa de corretaje que emplea redes de comunicaciones electrónicas (ECNs) para permitir que las principales agencias de corretaje e individuos se beneficien del acceso directo a otros participantes en el mercado sin tener que pasar a través de intermediarios."
+    },
+    {
+        "title": "Expert Advisor",
+        "text": "Un script que permite que los procesos analíticos y comerciales en la plataforma de negociación se lleven a cabo con poco o ningún control manual."
+    },
+    {
+        "title": "Expiry time",
+        "text": "También se llama expiración. Es la hora y la fecha en que caduca el comercio de un instrumento financiero."
+    },
+    {
+        "title": "Federal Reserve",
+        "text": "También se refiere comúnmente como Fed. Es el banco central de los EE.UU. y la institución financiera más influyente en el mundo. Supervisa el sistema monetario y financiero en los EE.UU."
+    },
+    {
+        "title": "Fiat",
+        "text": "En lo relacionado con el mundo de las criptomonedas, la palabra \"fiat\" se utiliza para describir a las monedas tradicionales, en oposición a las criptomonedas. Esta palabra significa \"será\" en latín, pues se refiere al hecho de que las monedas tradicionales son, simplemente, monedas de curso legal según lo establecido por los gobiernos, y rara vez se respaldan en algo."
+    },
+    {
+        "title": "Fibonacci",
+        "text": "Una herramienta popular utilizada por los analistas técnicos para identificar posibles niveles de soporte y resistencia basados ​​en algunos números clave."
+    },
+    {
+        "title": "Fill",
+        "text": "El proceso de ejecución de una orden en la plataforma de negociación."
+    },
+    {
+        "title": "Financial Instrument",
+        "text": "Cualquier tipo de activo negociable. Los ejemplos incluyen monedas, futuros, opciones y CFDs."
+    },
+    {
+        "title": "Flat",
+        "text": "Una situación en la que un comerciante no tiene ninguna posición en funcionamiento en el mercado."
+    },
+    {
+        "title": "Forex",
+        "text": "La forma corta de divisas."
+    },
+    {
+        "title": "Fud",
+        "text": "Fud es un acrónimo que hace referencia a fear (miedo), uncertainty (incertidumbre) y doubt (duda). Lo utilizan los operadores de criptomonedas para referirse a la difusión del sentimiento negativo."
+    },
+    {
+        "title": "Fundamental Analysis",
+        "text": "Un tipo de análisis de mercado que evalúa los aspectos económicos, financieros y otros aspectos cualitativos y cuantitativos relacionados que afectan el desempeño de un determinado instrumento financiero."
+    },
+    {
+        "title": "Gap",
+        "text": "La disparidad que existe en los gráficos entre el precio de cierre de una sesión de negociación y el precio de apertura de la sesión de negociación posterior."
+    },
+    {
+        "title": "GDP",
+        "text": "Abreviatura de Producto Interno Bruto. Es un indicador que mide la salud económica de un país al determinar el valor total de los bienes y servicios terminados producidos dentro de sus fronteras en un determinado período de tiempo."
+    },
+    {
+        "title": "GTC",
+        "text": "Abreviatura de Good Till Cancelled. Se trata de una orden de compra o venta de un determinado instrumento financiero a un precio determinado, pero este pedido sólo es válido, se dice que es bueno, hasta que el comerciante elige cancelarlo."
+    },
+    {
+        "title": "Hacia la luna",
+        "text": "\"Hacia la luna\" es una frase que utilizan los operadores de criptomonedas cuando esperan un drástico aumento del valor de una moneda o son testigos de ello. Cuando ocurren estas grandes subidas de valor, se dice que la moneda está subiendo \"hacia la luna\"."
+    },
+    {
+        "title": "Hedging",
+        "text": "Una estrategia comercial que implica el desarrollo de técnicas para reducir o evitar grandes pérdidas cuando se negocia en los mercados financieros."
+    },
+    {
+        "title": "In the Money",
+        "text": "Una frase usada para ilustrar cuando un comerciante obtiene beneficios."
+    },
+    {
+        "title": "Index",
+        "text": "También llamados índices. Se compone de múltiples poblaciones. El valor de un índice representa los precios individuales del instrumento financiero subyacente. Los ejemplos son S & P 500 y FTSE 100."
+    },
+    {
+        "title": "Inflation",
+        "text": "El aumento progresivo de los niveles de precios de bienes y servicios en un país. Cuando esto sucede, el poder adquisitivo disminuye en consecuencia."
+    },
+    {
+        "title": "Interbank Rate",
+        "text": "La tasa de interés en la que los bancos ofrecen préstamos entre sí para que puedan gestionar la liquidez y cumplir con las condiciones legales."
+    },
+    {
+        "title": "Japanese Yen",
+        "text": "Es la unidad monetaria japonesa, que es la tercera moneda más negociada en el mercado de divisas."
+    },
+    {
+        "title": "Jobber",
+        "text": "También se llama un scalper. Se utiliza para describir a un operador que abre y cierra posiciones a corto plazo con la intención de hacer ganancias acumuladas."
+    },
+    {
+        "title": "Kill",
+        "text": "Un pedido que debe ser cancelado (es decir, \"matado\") si no puede ser llenado completamente en el mercado."
+    },
+    {
+        "title": "Kiwi",
+        "text": "El término de argot para el dólar de Nueva Zelandia."
+    },
+    {
+        "title": "Lagging Indicators",
+        "text": "Las estadísticas que cambian después de que la economía ya ha comenzado a cambiar o ha comenzado a seguir una dirección o tendencia particular."
+    },
+    {
+        "title": "Leading Indicators",
+        "text": "Las estadísticas que se utilizan para pronosticar el desempeño económico de un país, ya que cambian antes (antes) de la economía empieza a seguir una dirección o tendencia particular."
+    },
+    {
+        "title": "Leverage",
+        "text": "Una herramienta financiera que permite a un inversor amplificar su exposición de mercado a un nivel que supera su capital inicial."
+    },
+    {
+        "title": "Liquidity",
+        "text": "La medida en que un instrumento financiero puede ser comprado o vendido con un efecto mínimo o nulo en su precio."
+    },
+    {
+        "title": "Long",
+        "text": "El acto de abrir una posición de compra en el mercado."
+    },
+    {
+        "title": "Margin",
+        "text": "Es básicamente la cantidad de depósito necesaria para asegurar que las posiciones en funcionamiento en el mercado se mantienen activas."
+    },
+    {
+        "title": "Margin Account",
+        "text": "Una cuenta proporcionada por los corredores que da a los operadores la oportunidad de pedir prestado fondos para participar en transacciones de valores."
+    },
+    {
+        "title": "Margin Call",
+        "text": "La afirmación de una firma de corretaje de que un comerciante añade más dinero para compensar las pérdidas probables."
+    },
+    {
+        "title": "Market Maker",
+        "text": "Una empresa de corretaje que está dispuesta a comprar y vender instrumentos financieros para proporcionar la liquidez necesaria a los mercados."
+    },
+    {
+        "title": "Market Price",
+        "text": "El precio actual al que se negocia un instrumento financiero en el mercado."
+    },
+    {
+        "title": "Market Risk",
+        "text": "La probabilidad de que un comerciante incurra en pérdidas cuando las condiciones del mercado no se comportan como se esperaba inicialmente."
+    },
+    {
+        "title": "Mine and Yours",
+        "text": "Lenguaje empleado por los inversores para denotar el deseo de comprar o vender. Para comprar algo, dicen \"Mío\". Si quieren vender, dicen \"Suya\"."
+    },
+    {
+        "title": "Mineros/minería",
+        "text": "La minería es el primer método para garantizar la seguridad de los bloques de cadenas, y sigue siendo el más popular para ello. Los mineros confirman las transacciones, y añaden marcas tiempo y hash en las cadenas de bloques. También obtienen como recompensa monedas recién acuñadas por contribuir con su potencial de procesamiento para mantener la red segura."
+    },
+    {
+        "title": "Money Market",
+        "text": "Una parte del mercado financiero donde se realizan transacciones de instrumentos financieros con alta liquidez así como vencimientos más rápidos."
+    },
+    {
+        "title": "Moving Average Convergence Divergence (MACD)",
+        "text": "Un indicador técnico común y versátil utilizado para determinar la tendencia o el impulso del mercado."
+    },
+    {
+        "title": "NASDAQ",
+        "text": "La mayor bolsa de valores electrónica de Estados Unidos"
+    },
+    {
+        "title": "Noise",
+        "text": "Frecuentes fluctuaciones de precios en el mercado que pueden hacer que sea difícil tomar una decisión comercial."
+    },
+    {
+        "title": "NYSE",
+        "text": "La Bolsa de Nueva York."
+    },
+    {
+        "title": "Open order",
+        "text": "Una orden que se está ejecutando en el mercado hasta que el comerciante elige cerrarlo."
+    },
+    {
+        "title": "Order",
+        "text": "Una instrucción a una firma de corretaje para comprar o vender un instrumento financiero a dicho precio."
+    },
+    {
+        "title": "Out of the Money",
+        "text": "Una frase que se utiliza para ilustrar una pérdida en un comercio."
+    },
+    {
+        "title": "Overnight Position",
+        "text": "Una posición de negociación que continúa funcionando hasta el día de operaciones siguiente."
+    },
+    {
+        "title": "Overtrading",
+        "text": "El peligroso hábito de entablar prácticas comerciales desmedidas y excesivas sin llevar a cabo la debida diligencia apropiada."
+    },
+    {
+        "title": "Payout",
+        "text": "La cantidad de efectivo obtenida de un comercio exitoso."
+    },
+    {
+        "title": "Pip",
+        "text": "El menor cambio de precio visto en el precio de las monedas."
+    },
+    {
+        "title": "Platform",
+        "text": "Es proporcionado por los corredores para permitir a los inversores ejecutar operaciones en el mercado."
+    },
+    {
+        "title": "Price/Earnings Ratio (P/E)",
+        "text": "Un método de valoración común utilizado para medir la rentabilidad de una empresa mediante la evaluación de la conexión entre el precio de sus acciones y sus ganancias por acción."
+    },
+    {
+        "title": "Principal Value",
+        "text": "El capital inicial que un individuo invirtió para negociar en los mercados financieros."
+    },
+    {
+        "title": "Pump and Dump",
+        "text": "Los proyectos de pump and dump son un tipo de manipulación mercantil y consisten en la compra de activos para incrementar sus precios. La subida del valor atrae a los operadores que quieren beneficiarse de estos movimientos alcistas, por lo que también compran y el precio aumenta aún más en consecuencia. Con el tiempo, los autores de estos proyectos liberan sus tenencias al nuevo precio inflado y los demás operadores siguen el ejemplo, por lo que los precios bajan de nuevo a niveles anteriores o, incluso, más bajos. Los más rezagados son los que pierden más, pues tienden a comprar a precios más inflados."
+    },
+    {
+        "title": "Put Option",
+        "text": "Un tipo de opción binaria que genera ganancias cuando el precio unitario del activo subyacente es menor al vencimiento que al comprarlo."
+    },
+    {
+        "title": "Quantitative Easing",
+        "text": "Una técnica empleada por los bancos centrales para estimular el crecimiento económico mediante el fomento del gasto."
+    },
+    {
+        "title": "Quote Currency",
+        "text": "La segunda moneda en una cotización de par de divisas. También se llama contra moneda."
+    },
+    {
+        "title": "Rate",
+        "text": "El precio de una moneda en comparación con otro. También se conoce como el tipo de cambio."
+    },
+    {
+        "title": "Rebate",
+        "text": "También se llama reembolso. Es la porción o toda la cantidad invertida devuelta al inversionista al final de una operación."
+    },
+    {
+        "title": "Relative Strength Index (RSI)",
+        "text": "Un indicador oscilante técnico utilizado para medir las condiciones de sobrecompra y sobreventa de un instrumento financiero."
+    },
+    {
+        "title": "Risk Capital",
+        "text": "La cantidad de efectivo que un individuo está listo para invertir en los mercados financieros."
+    },
+    {
+        "title": "Robot",
+        "text": "Software diseñado con señales comerciales preestablecidas que miden cuándo abrir o cerrar una posición en el mercado sin intervención humana."
+    },
+    {
+        "title": "Rollover",
+        "text": "El acto de prolongar la fecha de liquidación de una posición en marcha en el mercado."
+    },
+    {
+        "title": "Satoshi",
+        "text": "Un satoshi es la unidad más pequeña del bitcóin y equivale a un octavo de este. Rinde homenaje a Satoshi Nakamoto, inventor del bitcóin."
+    },
+    {
+        "title": "Scalping",
+        "text": "Una estrategia de negociación que implica abrir y cerrar posiciones a corto plazo con la intención de hacer ganancias acumuladas."
+    },
+    {
+        "title": "SEC",
+        "text": "Comisión de Valores y Bolsa de los Estados Unidos"
+    },
+    {
+        "title": "Security",
+        "text": "Un instrumento financiero negociable de cualquier tipo"
+    },
+    {
+        "title": "Short",
+        "text": "El acto de abrir una posición de venta en el mercado"
+    },
+    {
+        "title": "Slippage",
+        "text": "La diferencia entre el precio exhibido en un instrumento financiero y el precio real cuando un comercio se introduce en la plataforma de negociación."
+    },
+    {
+        "title": "Spot Price",
+        "text": "El tipo de cambio actual al que los comerciantes pueden comprar o vender un instrumento financiero particular."
+    },
+    {
+        "title": "Spread",
+        "text": "La diferencia entre el precio de venta y el precio de compra de un instrumento financiero."
+    },
+    {
+        "title": "Stochastic",
+        "text": "Un indicador oscilante que determina el nivel de cambio del precio de un instrumento financiero de un período de cierre a otro."
+    },
+    {
+        "title": "Stock",
+        "text": "Representación de una participación en la propiedad de una empresa que está disponible para negociar en los mercados financieros."
+    },
+    {
+        "title": "Stop Loss Order",
+        "text": "Una orden diseñada para limitar la pérdida de un inversionista comprando (o vendiendo) un instrumento financiero una vez que su precio vadea por encima (o cae por debajo) de un determinado precio de parada."
+    },
+    {
+        "title": "Strike Price",
+        "text": "El valor de un instrumento financiero en el momento en que se compra o se vende."
+    },
+    {
+        "title": "Swap",
+        "text": "El interés nocturno o de vuelco (que se gana o paga) por tener posiciones abiertas hasta el siguiente día de negociación."
+    },
+    {
+        "title": "Technical Analysis",
+        "text": "Método de evaluación del movimiento de instrumentos financieros a través del estudio de datos de mercado pasados, tales como gráficos de precio y volumen, como base para la predicción del comportamiento futuro de los precios."
+    },
+    {
+        "title": "Trader",
+        "text": "Un inversor participando en transacciones en los mercados financieros."
+    },
+    {
+        "title": "Trailing stop",
+        "text": "Un tipo único de orden de stop loss útil para bloquear ganancias en operaciones ganadoras."
+    },
+    {
+        "title": "Transaction Date",
+        "text": "La fecha en que tiene lugar la negociación de un instrumento financiero."
+    },
+    {
+        "title": "Under-Valuation",
+        "text": "Un tipo de cambio que normalmente se considera infravalorado. Esto sucede si no supera su paridad de poder adquisitivo."
+    },
+    {
+        "title": "Unemployment Rate",
+        "text": "El porcentaje de personas dentro de la fuerza de trabajo que se consideran sin empleo."
+    },
+    {
+        "title": "Value Date",
+        "text": "También se le llama fecha de vencimiento. Es la fecha en que las diferentes partes involucradas en un acuerdo financiero de consentimiento para hacer la solución definitiva."
+    },
+    {
+        "title": "Variation Margin",
+        "text": "Cantidad adicional de dinero necesaria por un corredor para compensar las pérdidas cuando el saldo cae por debajo del nivel mínimo requerido debido a movimientos de precios adversos."
+    },
+    {
+        "title": "Volatility",
+        "text": "Una medida de la tasa de fluctuación del precio de un instrumento financiero durante un período de tiempo."
+    },
+    {
+        "title": "Wire Transfer",
+        "text": "La transferencia electrónica de dinero de una institución financiera a otra."
+    },
+    {
+        "title": "World Bank Group",
+        "text": "Una organización que ofrece apoyo técnico y financiero a diferentes países en desarrollo alrededor del mundo."
+    },
+    {
+        "title": "X",
+        "text": "Es un símbolo de acciones de NASDAQ. Representa una representación de un fondo mutuo."
+    },
+    {
+        "title": "XE",
+        "text": "Abreviatura de Xpress Engine. Es uno de los sitios financieros más visitados que proporcionan herramientas útiles a los comerciantes."
+    },
+    {
+        "title": "Yield Curve",
+        "text": "Gráfico que ilustra la correlación entre la tasa de interés y el tiempo hasta el vencimiento del instrumento de deuda para un prestatario concreto que utiliza una moneda en particular."
+    },
+    {
+        "title": "ZAR",
+        "text": "El símbolo de la moneda del rand sudafricano."
+    },
+    {
+        "title": "Zero-Bound",
+        "text": "Una situación en la que las tasas de interés son muy bajas (cerca del cero por ciento), lo que dificulta que los bancos centrales instituyan medidas para estimular la expansión de la economía."
+    },
+    {
+        "title": "Zero-Bound",
+        "text": "Una situación en la que las tasas de interés son muy bajas (cerca del cero por ciento), lo que dificulta que los bancos centrales instituyan medidas para estimular la expansión de la economía."
+    }
+]

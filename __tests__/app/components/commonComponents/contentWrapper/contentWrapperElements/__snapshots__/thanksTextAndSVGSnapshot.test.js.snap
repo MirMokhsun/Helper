@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ThanksTextAndSVG create snapshot ThanksTextAndSVG 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "justifyContent": "center",
+      "marginVertical": 20,
+    }
+  }
+>
+  <Thanks />
+</View>
+`;
+
+exports[`ThanksTextAndSVG create snapshot ThanksTextAndSVG with text 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "justifyContent": "center",
+      "marginVertical": 20,
+    }
+  }
+>
+  <Thanks />
+  <Text
+    style={
+      Object {
+        "color": "#000756",
+        "fontFamily": "Roboto-Light",
+        "fontSize": 22,
+        "fontWeight": "bold",
+        "lineHeight": 30,
+        "marginVertical": 10,
+        "textAlign": "center",
+      }
+    }
+  >
+    text
+  </Text>
+</View>
+`;

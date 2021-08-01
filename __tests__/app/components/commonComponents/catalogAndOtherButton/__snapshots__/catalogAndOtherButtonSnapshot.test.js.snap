@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot CatalogAndOtherButton 1`] = `
+<TouchableOpacity
+  accessibilityLabel="CatalogAndOtherButtonundefinedID"
+  activeOpacity={0.2}
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "borderRadius": 10,
+      "elevation": 4,
+      "flex": 1,
+      "margin": 8,
+      "shadowColor": "rgba(0, 0, 0, 0.15)",
+      "shadowOffset": Object {
+        "height": 4,
+        "width": 0,
+      },
+      "shadowOpacity": 1,
+      "shadowRadius": 4,
+    }
+  }
+  testID="CatalogAndOtherButtonundefinedID"
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flex": 1,
+        },
+        Object {
+          "flexDirection": "column",
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 4,
+          "flexDirection": "column-reverse",
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "flex": 4,
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "flex": 1,
+            },
+            Object {
+              "justifyContent": "flex-start",
+              "minHeight": 10,
+            },
+          ]
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#000756",
+                "fontFamily": "Roboto-Light",
+                "fontSize": 16,
+                "textAlign": "center",
+              },
+              Object {
+                "marginTop": 10,
+                "textAlign": "center",
+              },
+            ]
+          }
+        />
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "height": 2,
+          "marginHorizontal": 28,
+          "width": "auto",
+        },
+        Object {
+          "backgroundColor": undefined,
+        },
+      ]
+    }
+  />
+</TouchableOpacity>
+`;

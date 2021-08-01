@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WarningInputText create snapshot WarningInputText 1`] = `null`;
+
+exports[`WarningInputText test componentWillReceiveProps test with next props isShowWarningText: false 1`] = `
+<View
+  style={
+    Object {
+      "height": 15,
+    }
+  }
+/>
+`;
+
+exports[`WarningInputText test componentWillReceiveProps test with next props isShowWarningText: true 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "height": 15,
+        "justifyContent": "flex-start",
+      },
+      Object {
+        "width": 290,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#F86F6F",
+        "fontFamily": "Roboto-Light",
+        "fontSize": 11,
+        "lineHeight": 15,
+        "textAlign": "right",
+      }
+    }
+  >
+    some text
+  </Text>
+</View>
+`;

@@ -1,0 +1,319 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot DetailCardScreen 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#F5F5F7",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "marginLeft": 34,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#000756",
+            "fontFamily": "Roboto-Regular",
+            "fontSize": 22,
+            "fontWeight": "bold",
+            "lineHeight": 28,
+          }
+        }
+      >
+        sad
+      </Text>
+      <TouchableOpacity
+        accessibilityLabel="DetailCardsad"
+        activeOpacity={0.2}
+        onPress={[Function]}
+        style={
+          Object {
+            "marginLeft": 10,
+            "width": 24,
+          }
+        }
+        testID="DetailCardsad"
+      >
+        <StarSVG />
+      </TouchableOpacity>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "marginLeft": 18,
+          "marginVertical": 15,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "fontFamily": "Roboto-Light",
+              "fontSize": 14,
+              "lineHeight": 18,
+              "marginRight": 10,
+            },
+            Object {
+              "color": "#9FA0B2",
+            },
+          ]
+        }
+      />
+      <RightArrow />
+    </View>
+    <AskSpredBidLine
+      ask={0.0545}
+      bid={0.445}
+      language="ru"
+    />
+    <PivotPointAndChartsLine
+      changeCharts={[Function]}
+      pivotPoint="123456"
+    />
+    <TimeFrameCharts
+      local={
+        Object {
+          "10 characters minimum": "Минимальное количество 10 символов",
+          "A letter to confirm your data...": "Письмо для подтверждения Ваших данных и завершения процесса регистрации отправлено на указаный e-mail",
+          "Already have an account?": "Уже есть аккаунт ?",
+          "AnotherProblem": "Обнаружена непредвиденная ошибка",
+          "Are you sure you want to log out?": "Вы уверены, что хотите выйти ?",
+          "Authorization": "Авторизация",
+          "Buy": "Покупать",
+          "Cancel": "Отмена",
+          "Catalog": "Каталог",
+          "ConnectionError": "Не удалось войти из-за проблем с соединением. Проверьте подключение к Интернету",
+          "ContactBroker": "Связь с брокером",
+          "Country": "Страна",
+          "Day": "день",
+          "Email-entry error": "Ошибка ввода e-mail",
+          "EmailIsExist": "Пользователь с таким e-mail уже существует. Найдите письмо с паролем на вашей почте или зарегистрируйтесь под новым e-mail адресом.",
+          "EmailOrPassWrong": "Некорректный адрес электронной почты или пароль",
+          "EmailWrong": "Некорректный адрес электронной почты",
+          "Enter your country": "Укажите страну",
+          "Favorites": "Избранное",
+          "Forgot password?": "Забыли пароль?",
+          "Glossary": "Словарь",
+          "Help": "Помощь",
+          "Home": "Главная",
+          "Hour": "час",
+          "I have read and agree with": "Заполняя форму регистрации, я принимаю",
+          "Indicators": "Показатели",
+          "Instructions for password recovery...": "Инструкция
+
+ по восстановлению пароля отправлена на почту пользователя",
+          "Instruments": "Инструменты",
+          "Invalid email address or password": "Неверный адрес электронной почты или пароль",
+          "Invalid email address or server error": "Неверный адрес электронной почты или ошибка сервера",
+          "InvalidParameters": "Регистрация в данный момент недоступна. Повторите попытку позже",
+          "LanguagePreference": "Выбор языка",
+          "Languages": Object {
+            "Arabian": "Арабский",
+            "English": "Английский",
+            "Russian": "Русский",
+            "Spanish": "Испанский",
+          },
+          "Last tool cannot be removed from favorites": "Последний инструмент невозможно удалить из списка избранных ",
+          "LastUpdate": "Последнее обновление",
+          "Leave a comment": "Оставить комментарий",
+          "Liked the application": "Понравилось приложение?
+Оцените его!",
+          "LogInToTheAccount": "Войти в аккаунт",
+          "ManagerWillContact": "Менеджер скоро с Вами свяжется",
+          "More news": "Ещё новости",
+          "MovingAverages": "Скользящие средние",
+          "Neutral": "Нейтрально",
+          "News": "Новости",
+          "No": "Нет",
+          "OK": "ОК",
+          "Other": "Прочее",
+          "OurApps": "Торговое приложение",
+          "OurWebsite": "Наш сайт",
+          "Password failed": "Ошибка ввода пароля",
+          "Password recovery": "Восстановление пароля",
+          "PasswordRecoverySuccess": "Инструкция по восстановлению пароля отправлена на почту пользователя",
+          "Please specify the email you used when registering": "Пожалуйста, укажите e-mail, который Вы использовали при регистрации",
+          "Quote": "Котировка",
+          "RegSuccess": "Регистрация прошла успешно",
+          "Registration": "Регистрация",
+          "Remind me later": "Напомнить позже",
+          "Save": "Сохранить",
+          "Sell": "Продавать",
+          "ServerUnreachable": "Ошибка при подключении к серверу",
+          "Session": "Сессия",
+          "Settings": "Настройки",
+          "Something went wrong": "что - то пошло не так",
+          "Specification": "Детализация",
+          "Thank you for joining us!": "Спасибо,
+
+ что присоеденились к нам!",
+          "Time": "Время",
+          "To get full access to the instruments...": "Чтобы получить полный доступ к инструментам, Вам необходимо войти в систему",
+          "Week": "нед",
+          "Yes": "Да",
+          "YouLoggedAs": "Вы вошли как ",
+          "cellItem": Object {
+            "opencellItem": Object {
+              "closeTitle": "Закрытие:",
+              "diferenceTitle": "Разница:",
+              "maxTitle": "Макс.:",
+              "minTitle": "Мин.:",
+              "openTitle": "Открытие:",
+              "percentdifereceTitle": "Разница%:",
+            },
+            "titleOfBuy": "Покупка",
+            "titleOfSell": "Продажа",
+          },
+          "confirmPasswordHints": Object {
+            "emptyName": "Поле обязательно для заполнения",
+            "emptyNameSO": "Поле обязательно для заполнения",
+            "length": "Пароль должен содержать не менее 5 символов",
+            "lengthSO": "Пароль должен содержать не менее 5 символов",
+            "minOneDigit": "В пароле должны присутствовать буквы и цифры",
+            "minOneDigitSO": "В пароле должны присутствовать буквы и цифры",
+            "minOneLeter": "В пароле должны присутствовать буквы и цифры",
+            "minOneLeterSO": "В пароле должны присутствовать буквы и цифры",
+            "onlyLatinAndDigits": "5-20 знаков, английские буквы и цифры",
+            "onlyLatinAndDigitsSO": "5-20 знаков, английские буквы и цифры",
+          },
+          "confirmPasswordMatch": "Пароли должны совпадать",
+          "countries": Object {
+            "London": "Лондон",
+            "Moscow": "Москва",
+            "New York": "Нью-Йорк",
+            "Sydney": "Сидней",
+            "Tokyo": "Токио",
+          },
+          "createAccount": "Cоздать аккаунт",
+          "emailExists": "Такой адрес уже существует",
+          "emailHints": Object {
+            "emptyName": "Поле обязательно для заполнения",
+            "emptyNameSO": "Поле обязательно для заполнения",
+            "incorrect": "Введите корректный формат эл. почты",
+            "incorrectSO": "Введите корректный формат эл. почты",
+            "symbols": "Допустимы символы \\".\\", \\"_\\", \\"-\\", \\"+\\", \\"@\\"",
+            "symbolsSO": "Допустимы символы \\".\\", \\"_\\", \\"-\\", \\"@\\"",
+          },
+          "enter": "Вход",
+          "error!": "Ошибка!",
+          "errorMessage": Object {
+            "email": "Неверный email",
+            "lastName": "Неверная фамилия",
+            "name": "Неверное имя",
+            "phoneNumber": "Неверно указан номер телефона",
+          },
+          "errorTypes": Object {
+            "3": "Слишком простой пароль",
+            "6": "Пользователь с этим e-mail уже зарегистрирован.",
+          },
+          "errors": Object {
+            "errorEmail": "Ошибка ввода e-mail",
+            "errorFirstName": "Ошибка ввода имени",
+            "errorLastName": "Ошибка ввода фамилии",
+          },
+          "exit": "Выход",
+          "helpSearch": "Введите слова поиска",
+          "introduced": "Ознакомлен",
+          "lastNameHints": Object {
+            "emptyName": "Поле обязательно для заполнения",
+            "emptyNameSO": "Поле обязательно для заполнения",
+            "incorrect": "Введите корректные данные",
+            "incorrectSO": "Введите корректные данные",
+          },
+          "login": "Войти",
+          "min": "мин",
+          "nameHints": Object {
+            "emptyName": "Поле обязательно для заполнения",
+            "emptyNameSO": "Поле обязательно для заполнения",
+            "incorrect": "Введите корректные данные",
+            "incorrectSO": "Введите корректные данные",
+          },
+          "noMessage": "Уведомлений нет",
+          "notifications": "Уведомления",
+          "passwordHints": Object {
+            "emptyName": "Поле обязательно для заполнения",
+            "emptyNameSO": "Поле обязательно для заполнения",
+            "length": "Пароль должен содержать не менее 5 символов",
+            "lengthSO": "Пароль должен содержать не менее 5 символов",
+            "minOneDigit": "В пароле должны присутствовать буквы и цифры",
+            "minOneDigitSO": "В пароле должны присутствовать буквы и цифры",
+            "minOneLeter": "В пароле должны присутствовать буквы и цифры",
+            "minOneLeterSO": "В пароле должны присутствовать буквы и цифры",
+            "onlyLatinAndDigits": "5-20 знаков, английские буквы и цифры",
+            "onlyLatinAndDigitsSO": "5-20 знаков, английские буквы и цифры",
+          },
+          "phoneNumberHints": Object {
+            "emptyName": "Поле обязательно для заполнения",
+            "emptyNameSO": "Поле обязательно для заполнения",
+            "incorrect": "Введите правильный номер телефона",
+            "incorrectSO": "Введите правильный номер телефона",
+            "onlyNumbers": "Введите только цифры",
+            "onlyNumbersSO": "Введите только цифры",
+          },
+          "placeHolder": Object {
+            "confirmPassword": "Подтверждение пароля",
+            "email": "Email",
+            "lastName": "Фамилия",
+            "name": "Имя",
+            "password": "Пароль",
+            "phoneNumber": "Телефон",
+          },
+          "recvOffers": "Получить предложение",
+          "regPopUp": "Ваш пароль отправлен на указанную почту",
+          "sendBtnText": "Отправить",
+          "signup": "Зарегистрируйтесь",
+          "signup2": "Зарегистрироваться",
+          "statusCodes": Object {
+            "500": "Регистрация недоступна,повторите попытку.",
+          },
+          "stillDontHaveAccaunt": "Ещё нет учётной записи?",
+          "tabbar": Object {
+            "commodity": "Товары",
+            "currency": "Валюты",
+            "home": "Главная",
+            "index": "Индексы",
+            "stock": "Акции",
+          },
+          "thanks": "Спасибо!",
+          "turnBtn": "Свернуть все",
+          "user agreement": "условия обработки персональных данных.",
+          "user agreement2": "Пользовательское соглашение",
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "marginBottom": 30,
+      }
+    }
+  >
+    <Memo(Connect(Chart))
+      isCandels={false}
+    />
+  </View>
+</View>
+`;

@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot CountryPicker 1`] = `
+<TouchableOpacity
+  accessibilityLabel="BtnCountryPickerRegistrationID"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  testID="BtnCountryPickerRegistrationID"
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFFFFF",
+        "borderBottomWidth": 1,
+        "borderColor": "#1459D2",
+        "flexDirection": "row",
+        "height": 40,
+        "justifyContent": "space-between",
+        "marginBottom": 10,
+        "padding": 0,
+        "paddingRight": 5,
+        "width": 290,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 40,
+          "justifyContent": "center",
+          "width": 235,
+        }
+      }
+    >
+      <Text
+        numberOfLines={1}
+        style={
+          Object {
+            "color": "#1459D2",
+            "fontFamily": "Roboto-Light",
+            "fontSize": 18,
+            "lineHeight": 21,
+            "textAlign": "left",
+          }
+        }
+      >
+        IO
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "height": 40,
+          "justifyContent": "space-between",
+          "paddingRight": 5,
+          "width": 55,
+        }
+      }
+    >
+      <Polygon />
+    </View>
+  </View>
+</TouchableOpacity>
+`;

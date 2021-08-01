@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TimeFrameCharts Create snapshot TimeFrameCharts 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#EBECEE",
+      "borderRadius": 16,
+      "flexDirection": "row",
+      "height": 32,
+      "justifyContent": "space-around",
+      "marginBottom": 5,
+      "padding": 4,
+      "width": "90%",
+    }
+  }
+>
+  <AnimatedComponent
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 12,
+          "height": 24,
+          "left": 4,
+          "position": "absolute",
+          "top": 4,
+          "width": "17%",
+          "zIndex": 1,
+        },
+        Object {
+          "transform": Array [
+            Object {
+              "translateX": 333.5,
+            },
+          ],
+        },
+      ]
+    }
+  />
+  <TimeFrameButton
+    frame="Minute"
+    id="Minute"
+    isActive={false}
+    setFrameFunction={[Function]}
+    text="1мин"
+  />
+  <TimeFrameButton
+    frame="Minute5"
+    id="Minute5"
+    isActive={false}
+    setFrameFunction={[Function]}
+    text="5мин"
+  />
+  <TimeFrameButton
+    frame="Minute30"
+    id="Minute30"
+    isActive={false}
+    setFrameFunction={[Function]}
+    text="30мин"
+  />
+  <TimeFrameButton
+    frame="Hour"
+    id="Hour"
+    isActive={true}
+    setFrameFunction={[Function]}
+    text="1час"
+  />
+  <TimeFrameButton
+    frame="Day"
+    id="Day"
+    isActive={false}
+    setFrameFunction={[Function]}
+    text="1день"
+  />
+  <TimeFrameButton
+    frame="Week"
+    id="Week"
+    isActive={false}
+    setFrameFunction={[Function]}
+    text="1нед"
+  />
+</View>
+`;

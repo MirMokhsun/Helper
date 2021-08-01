@@ -1,0 +1,1 @@
+export const validationTest = (validationData, regex) => regex.test(validationData)

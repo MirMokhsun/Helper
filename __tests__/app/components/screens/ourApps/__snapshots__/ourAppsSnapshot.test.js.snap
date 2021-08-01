@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot OurAppsScreen 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#F5F5F7",
+      "flex": 1,
+    }
+  }
+  testID="welcome"
+>
+  <OurAppPicker
+    appStorelink="https://itunes.apple.com/us/app/fx-quotes/id1434838460"
+    image={
+      Object {
+        "testUri": "../../../app/common/images/fxquo.jpg",
+      }
+    }
+    playStoreId="com.umarkets.quotes"
+    text="FX Quotes"
+  />
+  <OurAppPicker
+    appStorelink="https://itunes.apple.com/us/app/analytics-forex/id1206275896"
+    image={
+      Object {
+        "testUri": "../../../app/common/images/analfor.jpg",
+      }
+    }
+    playStoreId="com.umarkets.analyticsforex"
+    text="Analytics Forex"
+  />
+  <OurAppPicker
+    appStorelink="https://itunes.apple.com/us/app/umarkets/id1375545813"
+    image={
+      Object {
+        "testUri": "../../../app/common/images/uma.jpg",
+      }
+    }
+    playStoreId="com.umarkets.trading"
+    text="Umarkets Trading App"
+  />
+</View>
+`;

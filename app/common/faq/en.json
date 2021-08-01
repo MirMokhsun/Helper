@@ -1,0 +1,766 @@
+[
+    {
+        "title": "Altcoin",
+        "text": "The term altcoin originated when there was a much larger gap between bitcoin and the other cryptocurrencies in terms of adoption, market cap and trust. At the time, cryptocurrencies other than bitcoin were referred to as altcoins (or alternative coins). The term has stuck among cryptocurrency traders and is still used to refer to lower cap cryptocurrencies."
+    },
+    {
+        "title": "Anonymous Trading",
+        "text": "Bids and offers that are present on the financial markets without disclosing the identity of the market participants."
+    },
+    {
+        "title": "Appreciation",
+        "text": "A condition whereby the value of a financial instrument increases in response to the demand in the market."
+    },
+    {
+        "title": "Arbitrage",
+        "text": "The concurrent purchasing and selling of a financial asset at two separate prices in two separate markets, yielding profits with minimal risks."
+    },
+    {
+        "title": "Ask Rate",
+        "text": "Also referred to as offer. It is the lowest price at which a seller agrees to sell a financial asset."
+    },
+    {
+        "title": "Asset",
+        "text": "The underlying instrument essential for determining a contract. It can be a precious metal, stock, currency pair, or bond."
+    },
+    {
+        "title": "Asset Allocation",
+        "text": "A strategy that segregates investment portfolio over various asset classes with the intention of maximizing returns and also minimizing risks."
+    },
+    {
+        "title": "At the Money",
+        "text": "When a trade breaks even – the trader neither profits or loses."
+    },
+    {
+        "title": "Attorney in charge",
+        "text": "An individual granted the mandate to trade in the financial markets on behalf of another trader."
+    },
+    {
+        "title": "Aussie",
+        "text": "Dealer slang for the AUD/USD currency pair."
+    },
+    {
+        "title": "Authorized Dealer",
+        "text": "A financial entity that has been given the certification to engage in foreign currency transactions."
+    },
+    {
+        "title": "Away from the market",
+        "text": "A situation in which the bid on a limit order is lower than the present market price or the offer price is more than the present market price for a financial instrument."
+    },
+    {
+        "title": "Balance of Payments (BOP)",
+        "text": "A systematic record that outlines a country’s transactions with other countries within a particular period of time."
+    },
+    {
+        "title": "Balance of Trade",
+        "text": "The difference in value between a country’s exports and imports calculated within a certain period of time."
+    },
+    {
+        "title": "Bank Rate",
+        "text": "The interest rate at which a country’s central bank gives loans to domestic commercial banks."
+    },
+    {
+        "title": "Bar Charts",
+        "text": "A popular format for studying the price action of currency pairs."
+    },
+    {
+        "title": "Base Currency",
+        "text": "In terms of Forex Market trading, currencies are quoted in terms of a currency pair. The first currency in the pair is the base currency. The base currency is the currency against which exchange rates are generally quoted in a given country. Examples: USD/JPY, the US Dollar is the base currency; EUR/USD, the EURO is the base currency."
+    },
+    {
+        "title": "Bear",
+        "text": "A trader who believes that the price of an asset will fall."
+    },
+    {
+        "title": "Bear Market",
+        "text": "The financial market in which asset prices are falling."
+    },
+    {
+        "title": "Bid",
+        "text": "The selling price of a particular financial asset."
+    },
+    {
+        "title": "Big Figure",
+        "text": "The first two or three digits of a foreign exchange price or rate. Examples: USD/JPY rate of 108.05/10 the big figure is 108. EUR/USD price of 1.1325/28 the big figure is .13"
+    },
+    {
+        "title": "Block",
+        "text": "Blocks are fundamental to how blockchains and cryptocurrencies work. A block is simply a collection of data representing transactions that took place in a given period of time. Blocks are immutable after they are published and are linked together to form a chain of time-stamped data entries."
+    },
+    {
+        "title": "Blockchain",
+        "text": "A blockchain is essentially a ledger of transactions. Unlike the ledgers kept by banks, they are public and distributed. They are the underlying technology of all cryptocurrencies and allow users to transact with each other without the need for trusted third parties (like banks, PayPal, Western Union etc)."
+    },
+    {
+        "title": "Blue Chip",
+        "text": "Shares of large and well-established organizations."
+    },
+    {
+        "title": "Break Even",
+        "text": "A term used to describe when there is no overall profit or loss experienced in a transaction."
+    },
+    {
+        "title": "Breton Woods Agreement",
+        "text": "A historic agreement signed in 1944 in the U.S. that stipulates the guidelines for an international monetary system."
+    },
+    {
+        "title": "British Pound",
+        "text": "The term British pound is commonly used in less formal contexts, although it is not an official name of the currency of the United Kingdom. The full, official name, pound sterling, (plural: pounds sterling) is used mainly in formal contexts and also when it is necessary to distinguish the United Kingdom currency from other currencies with the same name."
+    },
+    {
+        "title": "Broker",
+        "text": "An individual or an organization that works as the middleman between retail traders and large, established financial corporations."
+    },
+    {
+        "title": "Bull",
+        "text": "A trader who believes that the price of an asset will rise."
+    },
+    {
+        "title": "Bull Market",
+        "text": "The financial market in which asset prices are rising."
+    },
+    {
+        "title": "Buy Limit Order",
+        "text": "An order to execute a transaction at a specified price (the limit) or lower."
+    },
+    {
+        "title": "Cable",
+        "text": "Cable is a slang Forex Market term used for the GBP/USD currency pair rate (British pound vs the US dollar). The name is derived from when the British Pound was more dominant and the currency was continually wired between North America and Europe via transatlantic cable."
+    },
+    {
+        "title": "Call Option",
+        "text": "Also known as a “High option.” When a trader believes that an asset price will rise, he purchases a Call option."
+    },
+    {
+        "title": "CCI",
+        "text": "Abbreviation for Commodity Channel Index. It is a technical oscillating indicator used for measuring when a financial instrument has been overbought or oversold."
+    },
+    {
+        "title": "Centralization / Decentralization",
+        "text": "Centralization refers to any system in which trusted parties are required. Before cryptocurrency it was impossible to conduct business without trusted parties like banks or money transmitters. The Internet is the first truly decentralized technology as its very structure gives equal voice to all participants. Blockchain technology is an evolution of that original ethos of the Internet and it promises to decentralize many areas of human life beyond just currency."
+    },
+    {
+        "title": "CFD",
+        "text": "Initials for Contract for Difference. It is basically an agreement between an investor and an investment institution. When the agreement expires, the parties exchange the difference between the opening and the closing prices of a particular financial asset through cash payments."
+    },
+    {
+        "title": "Commission",
+        "text": "The fee paid to a brokerage firm for the service rendered in facilitating transactions."
+    },
+    {
+        "title": "Commodities",
+        "text": "A general name that refers to basic physical items that are either grown or mined. Examples include coffee, precious metals, and oil."
+    },
+    {
+        "title": "Commodity Pairs",
+        "text": "The three pairs of currencies in the foreign exchange market that are from countries with the most extensive quantities of commodities. These pairs are USD/CAD, AUD/USD, and NZD/USD."
+    },
+    {
+        "title": "Correlation",
+        "text": "A statistical term that refers to a relationship between two seemingly independent things. In forex for example, one could argue that the Euro and the Sterling have a higher correlation than, for example, the Euro and the Brazilian Real."
+    },
+    {
+        "title": "Counter Currency",
+        "text": "The second currency in a currency pair quotation. Also called quote currency. This reflects the value of one unit of the first currency in the pair (Base Currency)."
+    },
+    {
+        "title": "CPI",
+        "text": "Initials for Consumer Price Index. It is a statistical measure that tracks the changes in the purchasing power of a currency as well as the rate of inflation."
+    },
+    {
+        "title": "Cross Currency Transaction",
+        "text": "A type of transaction in which two or more currencies are traded at the same time."
+    },
+    {
+        "title": "Currency",
+        "text": "A type of a financial asset that can be traded. Currencies are usually traded in pairs."
+    },
+    {
+        "title": "Currency Trading",
+        "text": "The act of participating in the exchange of one currency for another currency."
+    },
+    {
+        "title": "DAX",
+        "text": "Deutsche Aktien Xchange, Germany's primary stock index."
+    },
+    {
+        "title": "Day Trading",
+        "text": "The opening and closing of positions in the market on the same day without holding them overnight."
+    },
+    {
+        "title": "Dealing Desk",
+        "text": "Used loosely as the place where dealers facilitate pricing and executing trades."
+    },
+    {
+        "title": "Deficit",
+        "text": "A state in which liabilities exceeds the value of assets or losses exceeds profits."
+    },
+    {
+        "title": "Demo Trader",
+        "text": "A trading account that enables a potential investor to review and get accustomed to the features of a trading platform using virtual money before engaging in actual trading."
+    },
+    {
+        "title": "Depreciation",
+        "text": "A condition in which the value of a financial instrument decreases according to the demand in the market."
+    },
+    {
+        "title": "Depth of Market",
+        "text": "The volume of buy and sell orders waiting to be transacted for a particular currency pair at a particular point in time."
+    },
+    {
+        "title": "Derivative",
+        "text": "A financial contract whose worth relies upon or is derived from the performance of one or more underlying assets. Examples of underlying assets are stocks, bonds, or indices."
+    },
+    {
+        "title": "Dividend",
+        "text": "A portion of a company’s profits paid to every shareholder."
+    },
+    {
+        "title": "Earnings per Share (EPS)",
+        "text": "The fraction of an organization’s earnings apportioned to every outstanding share of common stock."
+    },
+    {
+        "title": "ECN Broker",
+        "text": "A brokerage firm that employs electronic communication networks (ECNs) to enable major brokerages and individuals benefit from the direct access to other market."
+    },
+    {
+        "title": "European Central Bank (ECB)",
+        "text": "Established in Frankfurt in 1998, the ECB is responsible for all monetary policy decisions that influence the Euro currency. Based on the Maastricht Treaty, the ECB's main responsibility is to ensure price stability. To this end, it is authorized to issue the Euro and is responsible for setting interest rates for those countries that have converted to the Euro."
+    },
+    {
+        "title": "Exotic",
+        "text": "As opposed to the major currencies which are heavily traded, exotics are the less traded currencies."
+    },
+    {
+        "title": "Expert Advisor",
+        "text": "A script that enables the analytical and trading processes in the trading platform to be carried out with little or no manual control."
+    },
+    {
+        "title": "Expiry time",
+        "text": "Also called expiration. It’s the time and date when a trade of a financial instrument expires."
+    },
+    {
+        "title": "F.U.D",
+        "text": "Fud is an acronym that stands for fear, uncertainty and doubt. It is used by cryptocurrency traders to refer to the spreading of negative sentiment."
+    },
+    {
+        "title": "Federal Reserve",
+        "text": "Also commonly referred to as Fed. It is the central bank of the U.S. and the most influential financial institution in the globe. It oversees the monetary and financial system in the U.S."
+    },
+    {
+        "title": "Fiat",
+        "text": "In the cryptocurrency space, the word fiat is used to describe traditional currencies as opposed to cryptocurrencies. The word means “it shall be” in Latin, referring to the fact that traditional currencies are simply declared to be legal tender by governments and are rarely backed by anything."
+    },
+    {
+        "title": "Fibonacci",
+        "text": "A popular tool used by technical analysts to identify potential support and resistance levels based on some key numbers."
+    },
+    {
+        "title": "Fill",
+        "text": "The process of executing an order on the trading platform."
+    },
+    {
+        "title": "Financial Instrument",
+        "text": "Any type of a tradable asset. Examples include currencies, futures, options, and CFDs."
+    },
+    {
+        "title": "Flat",
+        "text": "A situation whereby a trader does not have any running position in the market."
+    },
+    {
+        "title": "Forex",
+        "text": "The short form of foreign exchange."
+    },
+    {
+        "title": "Fundamental Analysis",
+        "text": "A type of market analysis that evaluates the related economic, financial and other qualitative and quantitative aspects that affect the performance of a particular financial instrument."
+    },
+    {
+        "title": "Gap",
+        "text": "The disparity that exists on charts between the closing price of one trading session and the opening price of the subsequent trading session."
+    },
+    {
+        "title": "GDP",
+        "text": "Abbreviation for Gross Domestic Product. It’s an indicator that measures the economic health of a country by determining the total worth of finished goods and services produced within its borders in a certain period of time."
+    },
+    {
+        "title": "GTC",
+        "text": "Abbreviation for Good Till Cancelled. It is an order to purchase or sell a particular financial instrument at a set price but this order is only valid, said to be good, until the trader chooses to cancel it."
+    },
+    {
+        "title": "Hedging",
+        "text": "A trading strategy that involves developing techniques of reducing or avoiding extensive losses when trading in the financial markets."
+    },
+    {
+        "title": "In the Money",
+        "text": "A phrase used to illustrate when a trader makes profit."
+    },
+    {
+        "title": "Index",
+        "text": "Represents a group of representative stocks within a stock exchange. Some of the most popular indices are the S&P 500, NASDAQ and the FTSE 100."
+    },
+    {
+        "title": "Inflation",
+        "text": "The progressive rise in the price levels of goods and services in a country. When this happens, the purchasing power consequently decreases."
+    },
+    {
+        "title": "Initial Margin",
+        "text": "The first deposit by a customer which determines a corresponding maximum trade size."
+    },
+    {
+        "title": "Initial Margin Requirement",
+        "text": "When entering a position, the minimum amount that must be paid in cash."
+    },
+    {
+        "title": "Interbank Rate",
+        "text": "The interest rate at which banks offer loans to one another so that they can manage liquidity and comply with the statutory conditions."
+    },
+    {
+        "title": "Interest Rate",
+        "text": "The rate charged or paid for the use of money. An interest rate is expressed as an annual percentage of the principal. Interest rates often change as a result of inflation and Central Bank policies."
+    },
+    {
+        "title": "Introducing Broker",
+        "text": "A person or firm that introduces customers to the broker often in return for commission or a portion of the spread."
+    },
+    {
+        "title": "Japanese Yen",
+        "text": "It is the Japanese currency unit, which is the third most-traded currency in the forex market."
+    },
+    {
+        "title": "Jobber",
+        "text": "Also called a scalper. It is used to describe a trader who opens and closes short-term positions with the intention of making accumulated profits."
+    },
+    {
+        "title": "Kill",
+        "text": "An order that is to be cancelled (that is to say “killed”) if it cannot be wholly filled in the market.\n "
+    },
+    {
+        "title": "Kiwi",
+        "text": "The slang term for the New Zealand Dollar."
+    },
+    {
+        "title": "Lagging Indicators",
+        "text": "Statistics that change after the economy has already started to change or has started to follow a particular direction or trend."
+    },
+    {
+        "title": "Leading Indicators",
+        "text": "Statistics that are used to forecast the economic performance of a country since they change before (ahead of) the economy begins to follow a particular direction or trend."
+    },
+    {
+        "title": "Leverage",
+        "text": "A financial tool that enables an investor to amplify his or her market exposure to a level that surpasses his or her initial capital."
+    },
+    {
+        "title": "Limit Order",
+        "text": "An order to transact at a specified price or better."
+    },
+    {
+        "title": "Line Chart",
+        "text": "The simplest form of charting, a line chart plots a series of lines connecting the various price levels over a specified time period."
+    },
+    {
+        "title": "Liquidity",
+        "text": "The extent to which a financial instrument can be bought or sold with minimal or no effect to its price."
+    },
+    {
+        "title": "Long",
+        "text": "The act of opening a buy position in the market."
+    },
+    {
+        "title": "Lot",
+        "text": "Standardized method of trading in forex which requires a trade of 100,000 units of a particular currency."
+    },
+    {
+        "title": "Margin",
+        "text": "It is basically the amount of deposit needed to ensure the running positions in the market are kept active."
+    },
+    {
+        "title": "Margin Account",
+        "text": "An account provided by brokers that gives traders the opportunity to borrow funds to engage in securities transactions."
+    },
+    {
+        "title": "Margin Call",
+        "text": "The assertion by a brokerage firm that a trader adds more money to make up for probable losses."
+    },
+    {
+        "title": "Market Maker",
+        "text": "A brokerage company that is willing to buy and sell financial instruments to provide the needed liquidity to the markets."
+    },
+    {
+        "title": "Market Price",
+        "text": "The present price at which a financial instrument is being traded in the market."
+    },
+    {
+        "title": "Market Risk",
+        "text": "The likelihood that a trader will incur losses when the market conditions do not behave as initially expected."
+    },
+    {
+        "title": "Maximum Leverage",
+        "text": "The biggest position that a margin deposit would cover. At a leverage of 50, one could enter a maximum leveraged position of $100,000 by depositing $2,000 worth of margin."
+    },
+    {
+        "title": "MetaTrader 4",
+        "text": "MetaTrader 4 is the cutting-edge online trading platform designed by MetaQuotes Software Corp. to provide brokerage services to customers in Forex, CFD and Futures markets."
+    },
+    {
+        "title": "Mine and Yours",
+        "text": "Language employed by investors to denote the desire to purchase or sell. For purchasing something, they say “Mine”. If they want to sell, they say “Yours”."
+    },
+    {
+        "title": "Miners/Mining",
+        "text": "Mining is the first and still the most popular method of keeping blockchains secure. Miners confirm transactions, time-stamping entries to the blockchain and hashing them. They are also rewarded with newly minted coins for contributing their processing power to keep the network secure."
+    },
+    {
+        "title": "Monetary Policy",
+        "text": "Central bank attempts to influence the economy through money supply levels."
+    },
+    {
+        "title": "Money Market",
+        "text": "A part of the financial market whereby transactions of financial instruments having high liquidity as well as faster maturities take place."
+    },
+    {
+        "title": "Moving Average",
+        "text": "Oscillators\tMethod of smoothing out data on price charts so that trends are easier to spot. Average refers to a mathematical average or a statistical mean that is plotted over the original curve."
+    },
+    {
+        "title": "Moving Average Convergence Divergence (MACD)",
+        "text": "A common and versatile technical indicator used for determining the trend or the momentum of the market."
+    },
+    {
+        "title": "NASDAQ",
+        "text": "The biggest electronic stock exchange in the U.S."
+    },
+    {
+        "title": "Net Position",
+        "text": "Currency positions that have not been offset with opposite positions."
+    },
+    {
+        "title": "News Trader",
+        "text": "An investor who bases his/her decisions on the outcome of a news announcement and its impact on the market."
+    },
+    {
+        "title": "NFP",
+        "text": "Non Farm Payroll - economic indicator released monthly by the United States Department of Labor as part of a comprehensive report on the state labor market."
+    },
+    {
+        "title": "Noise",
+        "text": "Frequent price fluctuations in the market that can make it difficult to make a trading decision."
+    },
+    {
+        "title": "NOK",
+        "text": "Interbank Rate Resistance Currency symbol for the Norwegian Krone."
+    },
+    {
+        "title": "NYSE",
+        "text": "The New York Stock Exchange.\n \n \n \n \n "
+    },
+    {
+        "title": "NZD",
+        "text": "NZD is the currency symbol for the New Zealand Dollar."
+    },
+    {
+        "title": "Offer",
+        "text": "Also known as the Ask Price, it is the price at which a seller is willing to sell."
+    },
+    {
+        "title": "One Cancels the Other Order (OCO)",
+        "text": "Two orders that are submitted simultaneously. If either one is executed, the other one is automatically cancelled."
+    },
+    {
+        "title": "Open order",
+        "text": "An order that is running in the market until the trader chooses to close it."
+    },
+    {
+        "title": "Options",
+        "text": "The right, but not the obligation, to buy (long call) or sell (long put) an underlying asset."
+    },
+    {
+        "title": "Order",
+        "text": "An instruction to a brokerage firm to either buy or sell a financial instrument at the said price."
+    },
+    {
+        "title": "Oscillators",
+        "text": "Technical analysis tools that provide buy and sell signals, characterized by a signal that oscillates between overbought and oversold levels."
+    },
+    {
+        "title": "Out of the Money",
+        "text": "A phrase that is used to illustrate a loss in a trade."
+    },
+    {
+        "title": "Overnight Position",
+        "text": "A trading position that continues to run until the next trading day."
+    },
+    {
+        "title": "Overtrading",
+        "text": "The dangerous habit of engaging in uncouth and excessive trading practices without carrying out appropriate due diligence."
+    },
+    {
+        "title": "Payout",
+        "text": "The amount of money earned from a successful trade."
+    },
+    {
+        "title": "Pip",
+        "text": "The smallest unit of measurement used in determining exchange rates between currencies."
+    },
+    {
+        "title": "Platform",
+        "text": "The system or technology provided by brokers."
+    },
+    {
+        "title": "Price/Earnings Ratio (P/E)",
+        "text": "A common valuation method used to gauge a company’s profitability by assessing the connection between its stock’s price and its earnings per share."
+    },
+    {
+        "title": "Principal Value",
+        "text": "The initial capital that an individual invests for trading in the financial markets."
+    },
+    {
+        "title": "Private Key",
+        "text": "Your private key is the digital signature used to unlock your cryptocurrency wallet and to sign transactions. It is essentially the password for your cryptocurrency holdings and as such should be kept secure and not shared with anyone."
+    },
+    {
+        "title": "Public Key",
+        "text": "Your public key is basically your cryptocurrency address. This is the code that you give out when requesting a payment."
+    },
+    {
+        "title": "Pump and Dump",
+        "text": "Pump and dump schemes are a type of market manipulation in which an asset is bought up in order to raise its price. The rise in value attracts other traders wanting to benefit from the move, who also buy in, raising the price even more. Eventually the perpetrators of the scheme dump their holdings at the new inflated price and everyone follows suit, dropping its price back down to former levels or even lower. Latecomers to pump and dumps are the ones who lose the most as they tend to buy in at the most inflated prices."
+    },
+    {
+        "title": "Put Option",
+        "text": "Also known as a “Low option.” When a trader believes that an asset price will fall, he purchases a Put option."
+    },
+    {
+        "title": "Quantitative Easing",
+        "text": "A technique employed by central banks to stimulate economic growth by encouraging spending."
+    },
+    {
+        "title": "Quote",
+        "text": "When both a bid and ask price are provided for a currency pair."
+    },
+    {
+        "title": "Quote Currency",
+        "text": "The second currency in a currency pair quotation. Also called counter currency. This reflects the value of one unit of the first currency in the pair (Base Currency)."
+    },
+    {
+        "title": "Rate",
+        "text": "The price of one currency compared to another one. Also referred to as the exchange rate."
+    },
+    {
+        "title": "Rebate",
+        "text": "Also called refund. It is the portion or the entire invested amount given back to the investor at the end of a trade."
+    },
+    {
+        "title": "Relative Strength Index (RSI)",
+        "text": "A technical oscillating indicator used to measure the overbought and oversold conditions of a financial instrument."
+    },
+    {
+        "title": "Resistance",
+        "text": "Price level at which technical analysts note persistent selling of a currency."
+    },
+    {
+        "title": "Risk Capital",
+        "text": "The amount of cash that an individual is ready to invest in the financial markets."
+    },
+    {
+        "title": "Risk Management",
+        "text": "The use of strategies to control or reduce financial risk. An example is a stop-loss order that minimizes maximum loss."
+    },
+    {
+        "title": "Robot",
+        "text": "Software designed with pre-set trading signals that gauge when to open or close a position in the market without human intervention."
+    },
+    {
+        "title": "Rollover",
+        "text": "The act of prolonging the settlement date of a running position in the market."
+    },
+    {
+        "title": "Satoshi",
+        "text": "A Satoshi is the smallest unit of a bitcoin, which is the eighth decimal place. It was named in honour of Satoshi Nakamoto, the inventor of bitcoin."
+    },
+    {
+        "title": "Scalping",
+        "text": "A trading strategy that involves opening and closing short-term positions with the intention of making accumulated profits."
+    },
+    {
+        "title": "SEC",
+        "text": "US Securities and Exchange Commission."
+    },
+    {
+        "title": "Security",
+        "text": "A tradable financial instrument of any kind."
+    },
+    {
+        "title": "Security Exchange Commission (SEC)",
+        "text": "The U.S. government agency that oversees and regulates the national securities industry, stock markets and electronic securities markets."
+    },
+    {
+        "title": "Sell Limit Order",
+        "text": "An order to execute a transaction only at a specified price (the limit) or higher."
+    },
+    {
+        "title": "Sell Stop",
+        "text": "A limit order with a limit placed below the current market price. Once triggered, the limit order becomes a market order."
+    },
+    {
+        "title": "Short",
+        "text": "The act of opening a sell position in the market."
+    },
+    {
+        "title": "Short Position",
+        "text": "In Forex Market, when a currency pair is sold, the position is said to be short. It is understood that the primary currency in the pair is 'short', and the secondary currency is 'long'."
+    },
+    {
+        "title": "Slippage",
+        "text": "The difference between the price displayed on a financial instrument and the actual price when a trade is entered on the trading platform."
+    },
+    {
+        "title": "Spot",
+        "text": "Buying and selling forex with the current date's price for valuation, but where settlement usually takes place in two days."
+    },
+    {
+        "title": "Spot Price",
+        "text": "The present exchange rate at which traders can buy or sell a particular financial instrument."
+    },
+    {
+        "title": "Spread",
+        "text": "The difference between the ask price and the bid price of a financial instrument."
+    },
+    {
+        "title": "Sterling",
+        "text": "Another name for the British Pound (GBP). The full, official name, pound sterling, (plural: pounds sterling)."
+    },
+    {
+        "title": "Stochastic",
+        "text": "An oscillating indicator that determines the level of change of the price of a financial instrument from one closing period to the next."
+    },
+    {
+        "title": "Stock",
+        "text": "Representation of a share in the ownership of a company that is available for trading on the financial markets."
+    },
+    {
+        "title": "Stop Loss Order",
+        "text": "An order designed to limit an investor’s loss by buying (or selling) a financial instrument once its price sails above (or falls below) a certain stop price."
+    },
+    {
+        "title": "Stop-buy",
+        "text": "A buy order for a currency price that is above the current market, or current price. It becomes a market order when the specified price is reached."
+    },
+    {
+        "title": "Strike Price",
+        "text": "The value of a financial instrument at the time when it is bought or sold."
+    },
+    {
+        "title": "Swap",
+        "text": "A transaction that moves the maturity date of an open position to a future date."
+    },
+    {
+        "title": "Take Profit",
+        "text": "A limit order that is placed above the market with a long position or below the market with a short position. When the market reaches the limit price, the position is closed thereby locking in a profit."
+    },
+    {
+        "title": "Technical Analysis",
+        "text": "A method of evaluating the movement of financial instruments through studying past market data, such as charts of price and volume, as a basis for forecasting future price behavior."
+    },
+    {
+        "title": "Trader",
+        "text": "An investor engaging in transactions in the financial markets."
+    },
+    {
+        "title": "Trading Platforms",
+        "text": "A software application used for trading forex, usually over the Internet."
+    },
+    {
+        "title": "Trailing stop loss",
+        "text": "RSimilar to a stop loss in that it limits potential losses in an open order. But unlike a simple stop loss where the threshold does not change, a trailing stop loss can be instructed to automatically adjust the limit price closer to the market price when the market price moves in your favour."
+    },
+    {
+        "title": "Transaction",
+        "text": "Buying or selling a currency pair."
+    },
+    {
+        "title": "Transaction Date",
+        "text": "The date upon which the trading of a financial instrument takes place."
+    },
+    {
+        "title": "Trend",
+        "text": "The current direction of the market, whether up or down or sideways (which is sometimes referred to as non-trending or trading market)."
+    },
+    {
+        "title": "Under-Valuation",
+        "text": "An exchange rate that is usually regarded to be undervalued. This happens if it does not exceed its purchasing power parity."
+    },
+    {
+        "title": "Unemployment Rate",
+        "text": "The percentage of people within the labor force who are considered to be without jobs."
+    },
+    {
+        "title": "US Dollar",
+        "text": "The currency of the United States of America."
+    },
+    {
+        "title": "Value Date",
+        "text": "It is also called maturity date. It is the date upon which the different parties involved in a financial deal consent to make the final settlement."
+    },
+    {
+        "title": "Variation Margin",
+        "text": "Additional amount of money needed by a broker to make up for losses when the balance drops below the required minimum level due to adverse price movements."
+    },
+    {
+        "title": "Volatility",
+        "text": "A measure of the rate of fluctuation of the price of a financial instrument over a period of time."
+    },
+    {
+        "title": "Wallet",
+        "text": "A wallet is simply somewhere that you can keep your cryptocurrency holdings. Crypto wallets are divided into:\n\nSoftware wallets, which can be installed on your computer.\n\nMobile wallets, which are available for mobile devices.\n\nWeb wallets, which are hosted online and are available through any web browser.\n\nPaper wallets, which are made by printing your public and private keys (or QR codes) on a piece of paper and securing it the old fashioned way.\n\nHardware wallets, which are small USB devices that hold your private keys and so must be plugged into your computer for you to be able to sign a transaction."
+    },
+    {
+        "title": "Whipsaw",
+        "text": "Slang for a condition of a highly volatile market where a sharp price movement is quickly followed by a sharp reversal."
+    },
+    {
+        "title": "Wire Transfer",
+        "text": "The electronic transfer of money from one financial institution to another."
+    },
+    {
+        "title": "World Bank Group",
+        "text": "An organization that offers technical and financial support to different developing countries around the globe."
+    },
+    {
+        "title": "X",
+        "text": "It is a NASDAQ stock symbol. It gives a representation of a mutual fund."
+    },
+    {
+        "title": "XAG",
+        "text": "A currency symbol of silver. It is precious metal with the highest electrical conduction properties of any metal. It is used mainly in jewellery, photography, and for scientific and industrial purposes. It has been used as the basis for currencies in the past. Silver is traded as a commodity on various security exchanges. Like many precious metals, silver is volatile but generally maintains relatively high prices."
+    },
+    {
+        "title": "XAU",
+        "text": "XAU is the currency code for gold. By popular demand, here are live gold bullion prices in eleven major currencies, US Dollars XAU/USD, Pounds Sterling XAU/GBP, Euros XAU/EUR, Australian Dollars XAU/AUD, Canadian Dollars XAU/CAD, Hong Kong Dollars, Rands XAU/ZAR, Rubles XAU/RUB, Rupees XAU/INR, Swiss Francs XAU/CHF, Yen XAU/JPY."
+    },
+    {
+        "title": "XAU/USD",
+        "text": "XAU/USD exchange rates for Gold to U.S. Dollar Starting July 15th, 2011"
+    },
+    {
+        "title": "XE",
+        "text": "Abbreviation for Xpress Engine. It is one of the most visited financial sites that provide useful tools to traders."
+    },
+    {
+        "title": "Yield Curve",
+        "text": "A graph that illustrates the correlation between the interest rate and the time to maturity of the debt instrument for a particular borrower using a particular currency."
+    },
+    {
+        "title": "ZAR",
+        "text": "The currency symbol of the South African Rand."
+    },
+    {
+        "title": "Zero-Bound",
+        "text": "A situation whereby interest rates are very low (close to zero percent), making it difficult for central banks to institute measures for stimulating expansion of the economy."
+    },
+    {
+        "title": "Zero-Bound",
+        "text": "A situation whereby interest rates are very low (close to zero percent), making it difficult for central banks to institute measures for stimulating expansion of the economy."
+    }
+]

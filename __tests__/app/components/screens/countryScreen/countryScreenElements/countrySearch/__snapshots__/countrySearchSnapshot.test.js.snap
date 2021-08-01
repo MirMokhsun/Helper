@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot CountrySearch 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#E5E5E5",
+      "borderColor": "#5A6772",
+      "borderRadius": 20,
+      "borderWidth": 1,
+      "flex": 1,
+      "flexDirection": "row",
+      "height": 40,
+      "marginHorizontal": 10,
+      "paddingHorizontal": 10,
+      "width": 650,
+    }
+  }
+>
+  <TouchableOpacity
+    accessibilityLabel="BtnIconCountryID"
+    activeOpacity={0.2}
+    onPress={[Function]}
+    testID="BtnIconCountryID"
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "height": "100%",
+          "justifyContent": "center",
+          "width": 56,
+        }
+      }
+    >
+      <IconSearchGray />
+    </View>
+  </TouchableOpacity>
+  <TextInput
+    accessibilityLabel="SearchInputCountryID"
+    allowFontScaling={true}
+    onChangeText={[Function]}
+    placeholder="Укажите страну"
+    placeholderTextColor="#000756"
+    rejectResponderTermination={true}
+    selectionColor="#5A6772"
+    style={
+      Array [
+        Object {
+          "flex": 1,
+          "fontFamily": "Roboto-Light",
+          "fontSize": 14,
+          "marginRight": 10,
+          "padding": 0,
+        },
+        Object {
+          "flex": 1,
+          "fontFamily": "Roboto-Light",
+          "fontSize": 14,
+          "marginRight": 10,
+          "padding": 0,
+        },
+      ]
+    }
+    testID="SearchInputCountryID"
+    underlineColorAndroid="transparent"
+  />
+</View>
+`;

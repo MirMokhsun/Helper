@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot QuotationItem 1`] = `
+<View
+  style={
+    Object {
+      "flexDirection": "row",
+      "height": 20,
+      "justifyContent": "space-between",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flex": 2,
+        "flexDirection": "row",
+        "justifyContent": "flex-end",
+        "paddingRight": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#000756",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 15,
+          "lineHeight": 20,
+        }
+      }
+    >
+      local.cellItem.titleOfBuy
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 3,
+        "flexDirection": "row",
+        "justifyContent": "flex-start",
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#9FA0B2",
+            "fontFamily": "Roboto-Light",
+            "fontSize": 15,
+            "lineHeight": 20,
+          },
+          Object {},
+        ]
+      }
+    >
+      1
+      2
+      3
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#9FA0B2",
+            "fontFamily": "Roboto-Light",
+            "fontSize": 15,
+            "lineHeight": 20,
+          },
+          Object {
+            "fontSize": 18,
+            "paddingTop": 0.5,
+          },
+        ]
+      }
+    >
+      4
+      5
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#9FA0B2",
+            "fontFamily": "Roboto-Light",
+            "fontSize": 15,
+            "lineHeight": 20,
+          },
+          Object {},
+        ]
+      }
+    >
+      6
+    </Text>
+  </View>
+</View>
+`;

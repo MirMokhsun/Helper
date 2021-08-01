@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot PivotPointAndChartsLine 1`] = `
+<View
+  style={
+    Object {
+      "flexDirection": "row",
+      "height": 25,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#9FA0B2",
+          "fontFamily": "Roboto-Regular",
+          "fontSize": 20,
+          "lineHeight": 25,
+        },
+        Object {},
+      ]
+    }
+  >
+    0
+    .
+    9
+    8
+    7
+  </Text>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#9FA0B2",
+          "fontFamily": "Roboto-Regular",
+          "fontSize": 20,
+          "lineHeight": 25,
+        },
+        Object {
+          "fontSize": 23,
+          "paddingTop": 0.5,
+        },
+      ]
+    }
+  >
+    4
+    6
+  </Text>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#9FA0B2",
+          "fontFamily": "Roboto-Regular",
+          "fontSize": 20,
+          "lineHeight": 25,
+        },
+        Object {},
+      ]
+    }
+  >
+    5
+  </Text>
+</View>
+`;

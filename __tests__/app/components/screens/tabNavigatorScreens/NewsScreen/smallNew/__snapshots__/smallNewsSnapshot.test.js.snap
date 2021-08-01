@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot SmallNew 1`] = `
+<TouchableOpacity
+  accessibilityLabel="SmallNew_1ID"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  testID="SmallNew_1ID"
+>
+  <View
+    alignSelf="center"
+    style={
+      Object {
+        "marginBottom": 20,
+        "width": 730,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 80,
+          "overflow": "hidden",
+          "position": "relative",
+          "zIndex": -2,
+        }
+      }
+    />
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#000756",
+            "fontFamily": "Roboto-Light",
+            "fontSize": 16,
+            "lineHeight": 20,
+            "marginBottom": 10,
+            "marginTop": 10,
+          },
+          Object {
+            "textAlign": "auto",
+          },
+        ]
+      }
+    >
+      cutTextNews
+    </Text>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <SmallClockGray />
+      <Text
+        style={
+          Object {
+            "color": "#1459D2",
+            "fontFamily": "Roboto-Light",
+            "fontSize": 11,
+            "lineHeight": 13,
+          }
+        }
+      >
+        10:27 12 октября, 2018
+      </Text>
+    </View>
+  </View>
+</TouchableOpacity>
+`;

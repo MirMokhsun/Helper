@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot NewsDetailsScreen 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#ffffff",
+      "height": "100%",
+      "width": 750,
+    }
+  }
+>
+  <ScrollViewMock
+    contentContainerStyle={
+      Object {
+        "width": 750,
+      }
+    }
+  >
+    <View
+      alignSelf="center"
+      style={
+        Object {
+          "backgroundColor": "#FFFFFF",
+          "flex": 1,
+          "marginTop": 10,
+          "width": 730,
+        }
+      }
+    />
+    <View
+      alignSelf="center"
+      style={
+        Object {
+          "backgroundColor": "#ffffff",
+          "width": 730,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "height": 40,
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#1459D2",
+                "fontFamily": "Roboto-Light",
+                "fontSize": 16,
+                "lineHeight": 40,
+              },
+              Object {
+                "textAlign": "left",
+              },
+            ]
+          }
+        >
+          Ещё новости
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "width": "100%",
+          }
+        }
+      />
+    </View>
+  </ScrollViewMock>
+</View>
+`;

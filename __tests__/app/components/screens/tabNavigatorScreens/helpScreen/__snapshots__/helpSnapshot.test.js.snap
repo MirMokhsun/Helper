@@ -1,0 +1,279 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Help create snapshot HelpScreen 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#F5F5F7",
+      "flex": 1,
+    }
+  }
+  testID="welcome"
+>
+  <View
+    style={
+      Object {
+        "paddingHorizontal": 16,
+        "paddingVertical": 8,
+        "width": "100%",
+      }
+    }
+  >
+    <TouchableWithoutFeedback
+      accessibilityLabel="HelpScreenBtnID"
+      onPress={[Function]}
+      testID="HelpScreenBtnID"
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#EBECEE",
+            "borderRadius": 16,
+            "height": 32,
+            "padding": 4,
+            "width": "100%",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "height": "100%",
+              "left": 4,
+              "position": "absolute",
+              "top": 4,
+              "width": "100%",
+              "zIndex": 2,
+            }
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "flex": 1,
+                  "fontSize": 16,
+                  "textAlign": "center",
+                  "textAlignVertical": "center",
+                },
+                Object {
+                  "color": "#000756",
+                  "fontFamily": "Roboto-Bold",
+                },
+              ]
+            }
+          >
+            FAQ
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "flex": 1,
+                  "fontSize": 16,
+                  "textAlign": "center",
+                  "textAlignVertical": "center",
+                },
+                Object {
+                  "color": "#9FA0B2",
+                  "fontFamily": "Roboto-Light",
+                },
+              ]
+            }
+          >
+            Словарь
+          </Text>
+        </View>
+        <AnimatedComponent
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": 12,
+                "height": 24,
+                "width": "50%",
+              },
+              Object {
+                "transform": Array [
+                  Object {
+                    "translateX": 0,
+                  },
+                ],
+              },
+            ]
+          }
+        />
+      </View>
+    </TouchableWithoutFeedback>
+  </View>
+  <FlatList
+    data={
+      Array [
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_0"
+          onPress={[Function]}
+          text="Как торговать?"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_1"
+          onPress={[Function]}
+          text="Как внести депозит?"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_2"
+          onPress={[Function]}
+          text="Stop Loss?"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_3"
+          onPress={[Function]}
+          text="Что такое Forex?"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_4"
+          onPress={[Function]}
+          text="Валюты на рынке Forex"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_5"
+          onPress={[Function]}
+          text="География Forex"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_6"
+          onPress={[Function]}
+          text="Как зарабатывать на Forex?"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_7"
+          onPress={[Function]}
+          text="Как минимизировать риски?"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_8"
+          onPress={[Function]}
+          text="Как выйти на Forex?"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_9"
+          onPress={[Function]}
+          text="Forex и валюты: как работают валюты на рынке"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_10"
+          onPress={[Function]}
+          text="Объемы торговли на рынке Forex"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_11"
+          onPress={[Function]}
+          text="Динамика курсов валют на рынке Forex"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_12"
+          onPress={[Function]}
+          text="Ведет ли Forex к успеху?"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_13"
+          onPress={[Function]}
+          text="Поведение валют на рынке Forex"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_14"
+          onPress={[Function]}
+          text="Валюты на рынке Forex?"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_15"
+          onPress={[Function]}
+          text="Рынок Forex: история"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_16"
+          onPress={[Function]}
+          text="Джордж Сорос и его уникальная сделка"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_17"
+          onPress={[Function]}
+          text="Уоррен Баффет: философия успеха"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_18"
+          onPress={[Function]}
+          text="Первые шаги трейдера"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_19"
+          onPress={[Function]}
+          text="Forex депозит"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_20"
+          onPress={[Function]}
+          text="Пример заработка на Forex"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_21"
+          onPress={[Function]}
+          text="Вывод прибыли"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_22"
+          onPress={[Function]}
+          text="Основы работы на рынке Forex"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_23"
+          onPress={[Function]}
+          text="Стили торговли на Forex"
+        />,
+        <ListPicker
+          currentTextAlign="left"
+          id="DetailArticleScreen_24"
+          onPress={[Function]}
+          text="Как выбрать стратегию?"
+        />,
+      ]
+    }
+    disableVirtualization={false}
+    horizontal={false}
+    initialNumToRender={10}
+    keyExtractor={[Function]}
+    maxToRenderPerBatch={10}
+    numColumns={1}
+    onEndReachedThreshold={2}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    updateCellsBatchingPeriod={50}
+    windowSize={21}
+  />
+</View>
+`;

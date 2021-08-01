@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot PhoneInput 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flexDirection": "row",
+      "height": 55,
+      "justifyContent": "space-between",
+      "marginBottom": 5,
+      "width": 290,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "borderBottomWidth": 1,
+        "borderColor": "#1459D2",
+        "height": 35,
+        "justifyContent": "center",
+        "marginBottom": 15,
+        "width": 50,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#1459D2",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+        }
+      }
+    >
+      +
+      380
+    </Text>
+  </View>
+  <CommonInput
+    action={[Function]}
+    errorText="phoneNumber"
+    isValid={true}
+    keyboardType="numeric"
+    maxWidth={240}
+    placeholder="phoneNumber"
+    testID="InputPhoneRegistrationID"
+    textErrorID="PhoneErrorRegostrationID"
+  />
+</View>
+`;

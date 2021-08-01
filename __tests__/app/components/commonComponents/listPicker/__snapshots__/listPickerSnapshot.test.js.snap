@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot ListPicker 1`] = `
+<TouchableOpacity
+  accessibilityLabel="ListPickerundefinedID"
+  activeOpacity={0.2}
+  style={
+    Object {
+      "alignItems": "center",
+      "borderBottomColor": "#D3D9E7",
+      "borderBottomWidth": 1,
+      "flexDirection": "row",
+      "marginHorizontal": 15,
+      "minHeight": 66,
+      "width": "auto",
+    }
+  }
+  testID="ListPickerundefinedID"
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#000756",
+          "flex": 1,
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+          "lineHeight": 21,
+          "paddingBottom": 15,
+          "paddingTop": 15,
+        },
+        Object {
+          "textAlign": "left",
+        },
+      ]
+    }
+  />
+</TouchableOpacity>
+`;

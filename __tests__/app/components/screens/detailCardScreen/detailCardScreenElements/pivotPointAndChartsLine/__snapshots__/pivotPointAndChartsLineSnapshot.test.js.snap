@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot PivotPointAndChartsLine 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "flexDirection": "row",
+      "justifyContent": "space-around",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flex": 3,
+        "flexDirection": "row",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#000756",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 14,
+          "lineHeight": 27,
+          "marginRight": 10,
+        }
+      }
+    >
+      Pivot Points: 
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#9FA0B2",
+              "fontFamily": "Roboto-Regular",
+              "fontSize": 20,
+              "lineHeight": 25,
+            },
+            Object {},
+          ]
+        }
+      >
+        0
+        .
+        9
+        8
+        1
+      </Text>
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#9FA0B2",
+              "fontFamily": "Roboto-Regular",
+              "fontSize": 20,
+              "lineHeight": 25,
+            },
+            Object {
+              "fontSize": 23,
+              "paddingTop": 0.5,
+            },
+          ]
+        }
+      >
+        3
+        9
+      </Text>
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#9FA0B2",
+              "fontFamily": "Roboto-Regular",
+              "fontSize": 20,
+              "lineHeight": 25,
+            },
+            Object {},
+          ]
+        }
+      >
+        0
+      </Text>
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 2,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <ChartsToogle />
+  </View>
+</View>
+`;

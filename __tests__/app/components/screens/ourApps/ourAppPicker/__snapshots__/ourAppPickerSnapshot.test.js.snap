@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot OurAppPicker 1`] = `
+<TouchableOpacity
+  accessibilityLabel="ourAppPickerundefinedID"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "borderBottomColor": "#D3D9E7",
+      "borderBottomWidth": 1,
+      "flexDirection": "row",
+      "height": 90,
+      "marginHorizontal": 15,
+      "padding": 8,
+      "width": "auto",
+    }
+  }
+  testID="ourAppPickerundefinedID"
+>
+  <Text
+    style={
+      Object {
+        "color": "#000756",
+        "fontFamily": "Roboto-Light",
+        "fontSize": 16,
+        "lineHeight": 65,
+        "marginLeft": 24,
+      }
+    }
+  />
+</TouchableOpacity>
+`;

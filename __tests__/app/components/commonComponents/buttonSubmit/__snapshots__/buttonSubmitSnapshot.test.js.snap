@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot ButtonSubmit 1`] = `
+<TouchableOpacity
+  accessibilityLabel="ButtonSubmitRegistrationID"
+  activeOpacity={0.2}
+  disabled={true}
+  onPress={[Function]}
+  testID="ButtonSubmitRegistrationID"
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "borderRadius": 24,
+          "height": 45,
+          "justifyContent": "center",
+          "marginBottom": 15,
+        },
+        Object {
+          "backgroundColor": "#1459D2",
+        },
+        Object {
+          "width": 290,
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "Roboto-Light",
+          "fontSize": 16,
+        }
+      }
+    >
+      Registration
+    </Text>
+  </View>
+</TouchableOpacity>
+`;
