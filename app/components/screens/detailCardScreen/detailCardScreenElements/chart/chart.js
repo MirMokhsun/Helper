@@ -21,19 +21,15 @@ class Chart extends React.Component {
     }
   }
 
-  componentWillMount() {
-    const { setFunctionSetArr } = this.props;
-    setFunctionSetArr(this.setArr);
-  }
-
   componentDidMount() {
-    const { candleItem, cleanDatesArr } = this.props;
+    const { candleItem, cleanDatesArr, setFunctionSetArr  } = this.props;
     cleanDatesArr(this.cleanDates);
+    setFunctionSetArr(this.setArr);
     this.requestTechnical.getCandelsFromServer(candleItem.ID, 'Hour');
     this.requestTechnical.sendMassegeWebSoket(candleItem.ID, 'Hour');
   }
 
-  componentWillReceiveProps({ candleItem, endCandleFrame }) {
+  getDerivedStateFromProps ({ candleItem, endCandleFrame }) {
     const { candlesArr } = this.state;
     this.updateCurrentCandle([...candlesArr], candleItem, endCandleFrame);
   }
@@ -51,7 +47,7 @@ class Chart extends React.Component {
   }
 
   updateCurrentCandle = (dataCandels, candleItem, endCandleFrame) => {
-    let newArrWithDates = [];
+    let newArrWithDates = [];    
     if (dataCandels.length > 2) {
       newArrWithDates = this.candleUpdaterObj.updateArrWithCandlesAndReturnArrDates(dataCandels, candleItem, endCandleFrame, this.setArr);
       if (newArrWithDates) {

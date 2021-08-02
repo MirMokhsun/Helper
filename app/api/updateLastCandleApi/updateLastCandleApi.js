@@ -53,7 +53,7 @@ export default class CandleUpdater {
         return timeArr;
     }
 
-    updateArrWithCandlesAndReturnArrDates = (dataCandels, updateCandleItem,  callBack) => {
+    updateArrWithCandlesAndReturnArrDates = (dataCandels, updateCandleItem) => {
         let candles = [...dataCandels];
         const lastItem = candles[candles.length - 1];
         let arrWithDates = null;
@@ -62,14 +62,14 @@ export default class CandleUpdater {
         // add updated candle from server
         if (true) {
             candles = this.addUpdateLastCandles(candles, updatedItem);
-            callBack(candles);
+            // callBack(candles);
             // form arr with dates
             arrWithDates = this.dateFormaterToArr(candles);
         }
         // update fast candle
         if (candles[candles.length - 1].C !== updatedItem.C && updatedItem.C !== 0) {
             candles[candles.length - 1] = updatedItem;
-            callBack(candles);
+            // callBack(candles);
         }
         return arrWithDates;
     }

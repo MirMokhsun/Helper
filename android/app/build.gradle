@@ -189,7 +189,7 @@ dependencies {
     implementation "com.facebook.react:react-native:+"  // From node_modules
 
     implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.0.0"
- // for firebase start
+    // for firebase start
     implementation project(':react-native-firebase')
     implementation "com.google.firebase:firebase-core:16.0.9"
     implementation "com.google.firebase:firebase-messaging:18.0.0"
@@ -200,6 +200,7 @@ dependencies {
     implementation project(':react-native-charts-wrapper')
     implementation 'com.android.installreferrer:installreferrer:1.0'
     implementation 'com.appsflyer:af-android-sdk:4.8.14@aar'
+
     debugImplementation("com.facebook.flipper:flipper:${FLIPPER_VERSION}") {
       exclude group:'com.facebook.fbjni'
     }

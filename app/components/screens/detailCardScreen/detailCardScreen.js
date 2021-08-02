@@ -69,6 +69,7 @@ export class DetailCardScreen extends Component {
             favoriteSvg: isCardFavoriteProps ? <FullStar /> : <StarSVG />,
             isCardFavorite: isCardFavoriteProps,
             isCandels: false,
+            dataCandels: [],
         }
         this.svgWithBool = { favoriteSvg: isCardFavoriteProps ? <FullStar /> : <StarSVG />, isCardFavorite: isCardFavoriteProps };
     }
@@ -135,8 +136,14 @@ export class DetailCardScreen extends Component {
         this.setState({ isCandels: !isCandels });
     }
 
+    // changeDataForCandles = () => {
+    //     const { dataCandels } = this.state;
+    //     this.setState({ dataCandels:  });
+    // }
+
     render() {
         const { language, cardItem: { FullName, Ask, Bid, ID, Name }, cleanDatesArr, pivotPoint, recomendation, setZoomCharts } = this.props;
+        console.log('cleanDatesArr======================>', cleanDatesArr)
         const { favoriteSvg, arrow, colorIndicator, isCandels } = this.state;
         const local = localization[language];
         return (
