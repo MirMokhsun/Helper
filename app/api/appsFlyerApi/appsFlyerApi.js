@@ -16,6 +16,10 @@ const options = {
 
 if (Platform.OS === 'ios') {
     options.appId = "1449568979";
+    if(parseInt(Platform.Version, 10)>= 15)
+    {
+        otpions.timeToWaitForATTUserAuthorization= 10;
+    }
 };
 
 export default class AppsFlyerApi {

@@ -36,7 +36,7 @@ const StatusConnection=(props)=> {
             unsubscribe();
             AppState.removeEventListener('change', _handleAppStateChange);
         };
-    }, [])
+    }, [isConnected])
 
     const __callFeach = async (url, method, body) => {
         try {

@@ -21,7 +21,7 @@ export class Registration {
     this.registrationSecond = "Registration/second?";
   }
 
-  getRequestcrmRegistrationLeadJsonObj = (firstName, lastName, email, agreementCheckbox, country, codephone, phone, lang, appsflayerData) => {
+  getRequestcrmRegistrationLeadJsonObj = (firstName, lastName, email, agreementCheckbox, country, codephone, phone, lang, appsFlayerData) => {
     let registrationLeadJsonObj = null;
     if (firstName && lastName && email && agreementCheckbox && country && codephone && phone && lang) {
       registrationLeadJsonObj = `&model.firstName=${encodeURIComponent(firstName)
@@ -32,7 +32,7 @@ export class Registration {
         }&model.email=${encodeURIComponent(email)
         }&model.country=${country
         }&model.terms=true&model.lang=${lang
-        }${this.AppsFlyerApi.makeAppsFlyerInfo(appsflayerData, lang)}`;
+        }${this.AppsFlyerApi.makeAppsFlyerInfo(appsFlayerData, lang)}`;
     }
     return registrationLeadJsonObj;
   }
@@ -45,9 +45,9 @@ export class Registration {
     return registrationSecondJsonObj;
   }
 
-  registrationLead = async (firstName, lastName, email, agreementCheckbox, country, codephone, phone, lang, appsflayerData) => {
+  registrationLead = async (firstName, lastName, email, agreementCheckbox, country, codephone, phone, lang, appsFlayerData) => {
     // make 1st registrationLeadJsonObj
-    const registrationLeadJsonObj = this.getRequestcrmRegistrationLeadJsonObj(firstName, lastName, email, agreementCheckbox, country, codephone, phone, lang, appsflayerData);
+    const registrationLeadJsonObj = this.getRequestcrmRegistrationLeadJsonObj(firstName, lastName, email, agreementCheckbox, country, codephone, phone, lang, appsFlayerData);
     // send 1st registrationLeadJsonObj
     const responseRegistrationLead = await this.__callFeach(
       config.links.DOMEN + this.registrationLeadFirst + registrationLeadJsonObj,

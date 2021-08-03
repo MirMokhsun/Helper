@@ -79,11 +79,23 @@ export class RegistrationScreen extends Component {
             setRegistrationCheckbox();
         }
     }
+    
+    getLanguageForCRM = (appsFlyerData, language )=>{
+        let lang = ''
+
+        if(appsFlyerData.campaign){
+           lang = appsFlyerData.campaign.split("-").pop().toUpperCase()
+        }
+        else{
+            lang = language.toUpperCase()
+        }
+        return lang
+    };
 
     sendRegistrationData = () => {
         const { registrationData: { email, firstName, lastName, country, phone, agreementCheckbox, phoneCode }, showRegistrationSpiner, appsFlyerData, language } = this.props;
         if (firstName.value && lastName.value && email.value && agreementCheckbox.isValid && country.countryKey && phone.value && phoneCode && language) {
-            crmRegistration.registrationLead(firstName.value, lastName.value, email.value, agreementCheckbox.isValid, country.countryKey, phoneCode, phone.value, language.toUpperCase(), appsFlyerData);
+            crmRegistration.registrationLead(firstName.value, lastName.value, email.value, agreementCheckbox.isValid, country.countryKey, phoneCode, phone.value, this.getLanguageForCRM(appsFlyerData, language), appsFlyerData);
         }
         showRegistrationSpiner();
     }
