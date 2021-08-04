@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">FX Helper</string>
     <string name="default_notification_channel_id">analyticsforexlite</string>
+    <string name="facebook_app_id">4343295102424295</string>
+    <string name="facebook_client_token">e2a9325602ae702ae7680124d905d2c8</string>
 </resources>

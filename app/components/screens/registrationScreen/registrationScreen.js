@@ -24,6 +24,7 @@ import Background from '../../commonComponents/svg/Background';
 import { crmRegistration } from '../../../api/registration/registrationSingleton';
 import { showRegistrationSpiner } from '../../commonComponents/buttonSubmit/redux/spinersAction';
 import Utils from '../../../api/utils/utils';
+import LoginFacebook from './registrationElements/facebookAuth';
 
 const { isIOS } = Utils;
 
@@ -174,6 +175,7 @@ export class RegistrationScreen extends Component {
                             onPress={this.sendRegistrationData}
                         />
                     </View>
+                    <LoginFacebook/>
                     <AuthorizationButton
                         text={local["Already have an account?"]}
                         textLogin={local.login}

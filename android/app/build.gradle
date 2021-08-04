@@ -195,6 +195,7 @@ dependencies {
     implementation "com.google.firebase:firebase-messaging:18.0.0"
     // for firebase end
 
+    implementation 'com.facebook.android:facebook-android-sdk:[5,6)'
     implementation project(':react-native-svg')
     implementation project(':react-native-appsflyer')
     implementation project(':react-native-charts-wrapper')
