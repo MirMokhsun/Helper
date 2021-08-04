@@ -25,6 +25,7 @@ import { crmRegistration } from '../../../api/registration/registrationSingleton
 import { showRegistrationSpiner } from '../../commonComponents/buttonSubmit/redux/spinersAction';
 import Utils from '../../../api/utils/utils';
 import LoginFacebook from './registrationElements/facebookAuth';
+import { NavigationEvents } from 'react-navigation';
 
 const { isIOS } = Utils;
 
@@ -94,11 +95,12 @@ export class RegistrationScreen extends Component {
     };
 
     sendRegistrationData = () => {
-        const { registrationData: { email, firstName, lastName, country, phone, agreementCheckbox, phoneCode }, showRegistrationSpiner, appsFlyerData, language } = this.props;
+        const { registrationData: { email, firstName, lastName, country, phone, agreementCheckbox, phoneCode }, showRegistrationSpiner, appsFlyerData, language, navigation } = this.props;
         if (firstName.value && lastName.value && email.value && agreementCheckbox.isValid && country.countryKey && phone.value && phoneCode && language) {
             crmRegistration.registrationLead(firstName.value, lastName.value, email.value, agreementCheckbox.isValid, country.countryKey, phoneCode, phone.value, this.getLanguageForCRM(appsFlyerData, language), appsFlyerData);
         }
         showRegistrationSpiner();
+        navigation.navigate("TabAppNavigator")
     }
 
     render() {
@@ -170,7 +172,7 @@ export class RegistrationScreen extends Component {
                         <ButtonSubmit
                             text={local.Registration}
                             testID="ButtonSubmitRegistrationID"
-                            isDisabled={isRegistrationButtomDisabled}
+                            isDisabled={false}
                             isShowSpiner={registrationSpiner}
                             onPress={this.sendRegistrationData}
                         />
