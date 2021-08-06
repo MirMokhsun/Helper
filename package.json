@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "@react-native-async-storage/async-storage": "1.15.5",
+    "@react-native-community/masked-view": "^0.1.11",
     "@react-native-community/netinfo": "6.0.0",
+    "@react-native-firebase/analytics": "^12.4.0",
+    "@react-native-firebase/app": "^12.4.0",
     "axios": "0.21.1",
     "qs": "6.10.1",
     "react": "17.0.1",
@@ -21,9 +24,11 @@
     "react-native-charts-wrapper": "git+https://dmitriychernenko:jSV6U8X3RcU7yaJPAncF@bitbucket.org/maxiwidgets/rn-charts-wrapper-cw.git",
     "react-native-device-info": "^8.1.4",
     "react-native-fbsdk": "^3.0.0",
-    "react-native-firebase": "5.6.0",
-    "react-native-gesture-handler": "1.10.3",
+    "react-native-gesture-handler": "^1.10.3",
     "react-native-localize": "^2.1.1",
+    "react-native-reanimated": "^2.2.0",
+    "react-native-safe-area-context": "^3.3.0",
+    "react-native-screens": "^3.5.0",
     "react-native-svg": "12.1.1",
     "react-navigation": "4.4.4",
     "react-navigation-drawer": "1.4.0",
@@ -46,5 +51,10 @@
   },
   "jest": {
     "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./app/fonts/"
+    ]
   }
 }

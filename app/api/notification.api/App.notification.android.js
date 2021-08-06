@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import firebase from 'react-native-firebase';
+import firebase from '@react-native-firebase/app';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 import { SHA256 } from '../sha256/sha256';

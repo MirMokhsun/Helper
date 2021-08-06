@@ -6,7 +6,7 @@ import { setRTLApp } from './app/api/setLanguageInStartApp/setLanguageInStartApp
 setRTLApp(Platform.OS);
 
 if(Platform.OS==='ios'){
-    AppRegistry.registerComponent('umarkets_analyticslite', () => App);
+    AppRegistry.registerComponent('rn_analytics_light', () => App);
 } else {
-    AppRegistry.registerComponent('umarkets.analyticslite', () => App);
+    AppRegistry.registerComponent('rn_analytics_light', () => App);
 }
