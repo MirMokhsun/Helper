@@ -5,7 +5,7 @@ import { LoginButton, AccessToken } from 'react-native-fbsdk';
 export default class LoginFacebook extends Component {
   render() {
     return (
-      <View>
+      <View style={{paddingTop: 10}}>
         <LoginButton
           onLoginFinished={
             (error, result) => {

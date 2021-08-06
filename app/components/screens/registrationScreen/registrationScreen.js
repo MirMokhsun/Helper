@@ -172,12 +172,12 @@ export class RegistrationScreen extends Component {
                         <ButtonSubmit
                             text={local.Registration}
                             testID="ButtonSubmitRegistrationID"
-                            isDisabled={false}
+                            isDisabled={isRegistrationButtomDisabled}
                             isShowSpiner={registrationSpiner}
                             onPress={this.sendRegistrationData}
                         />
                     </View>
-                    <LoginFacebook/>
+                    {/* <LoginFacebook/> */}
                     <AuthorizationButton
                         text={local["Already have an account?"]}
                         textLogin={local.login}
