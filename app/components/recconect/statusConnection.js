@@ -25,7 +25,7 @@ const StatusConnection=(props)=> {
     const [isConnected, setIsConnected] = useState(true)
     let appState = AppState.currentState
     const freeServer = new FreeServer();
-
+    
     useEffect(() => {
         const unsubscribe = NetInfo.addEventListener(state => {
             handleConnectivityChange(state.isConnected)
