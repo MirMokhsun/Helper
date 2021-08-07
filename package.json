@@ -23,7 +23,7 @@
     "react-native-appsflyer": "6.3.20",
     "react-native-charts-wrapper": "git+https://dmitriychernenko:jSV6U8X3RcU7yaJPAncF@bitbucket.org/maxiwidgets/rn-charts-wrapper-cw.git",
     "react-native-device-info": "8.1.4",
-    "react-native-fbsdk": "3.0.0",
+    "react-native-fbsdk-next": "^4.3.0",
     "react-native-gesture-handler": "1.10.3",
     "react-native-localize": "2.1.1",
     "react-native-reanimated": "2.2.0",

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { View } from 'react-native';
-import { LoginButton, AccessToken } from 'react-native-fbsdk';
+import { LoginButton, AccessToken } from 'react-native-fbsdk-next';
  
 export default class LoginFacebook extends Component {
   render() {
