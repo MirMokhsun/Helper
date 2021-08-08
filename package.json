@@ -30,6 +30,7 @@
     "react-native-safe-area-context": "3.3.0",
     "react-native-screens": "3.5.0",
     "react-native-svg": "12.1.1",
+    "react-native-websocket": "^1.0.2",
     "react-navigation": "4.4.4",
     "react-navigation-drawer": "1.4.0",
     "react-navigation-stack": "1.7.3",

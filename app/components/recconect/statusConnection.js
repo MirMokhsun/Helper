@@ -112,10 +112,10 @@ const StatusConnection=(props)=> {
     const _handleAppStateChange = (nextAppState) => {
         if (ios && appState.match(/inactive|background/) && nextAppState === 'active') {
             store.dispatch({ type: 'SET_CONNECTION_STATUS', data: "Lost Connection" })
-            if (ws) {
-                ws.webSocketClient.closeWebSocketConnection();
-                ws.webSocketClient.websocket.reconect();
-            }
+            // if (ws) {
+                // ws.webSocketClient.closeWebSocketConnection();
+                // ws.webSocketClient.websocket.reconect();
+            // }
         }
         return appState = nextAppState;
     }
@@ -127,8 +127,8 @@ const StatusConnection=(props)=> {
         if (!isConnected && !isFirstConnection) {
             store.dispatch({ type: 'SET_CONNECTION_STATUS', data: "Lost Connection" })
             if (ws) {
-                ws.webSocketClient.closeWebSocketConnection();
-                ws.webSocketClient.websocket.reconect();
+                // ws.webSocketClient.closeWebSocketConnection();
+                // ws.webSocketClient.websocket.reconect();
             }
         }
         if (isFirstConnection && isConnected) {
@@ -141,12 +141,11 @@ const StatusConnection=(props)=> {
     };
 
     const chackChangingNetSourse = () => {
-        const { webSocketClient: ws } = props;
             store.dispatch({ type: 'SET_CONNECTION_STATUS', data: "Lost Connection" })
-                if (ws) {
-                    ws.webSocketClient.closeWebSocketConnection();
-                    ws.webSocketClient.websocket.reconect();
-                }
+                // if (ws) {
+                    // ws.webSocketClient.closeWebSocketConnection();
+                    // ws.webSocketClient.websocket.reconect();
+                // }
     }
     
     if (!isConnected && !isStart) {
