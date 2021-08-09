@@ -177,7 +177,7 @@ export class RegistrationScreen extends Component {
                             onPress={this.sendRegistrationData}
                         />
                     </View>
-                    <LoginFacebook/>
+                    {/* <LoginFacebook/> */}
                     <AuthorizationButton
                         text={local["Already have an account?"]}
                         textLogin={local.login}
